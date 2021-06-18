@@ -1,0 +1,4363 @@
+{
+  "videos": [
+
+    {
+      "category": 1,
+      "url": "http://tv.cctv.com/2018/12/04/VIDEgCf74WCBmdYQ9iuAEf52181204.shtml",
+      "video_id": "G_00100",
+      "start time": "0:9:41,20",
+      "end time": "0:9:49,23",
+      "split": "train",
+      "id": 100
+    },
+    {
+      "category": 1,
+      "url": "http://tv.cctv.com/2018/12/04/VIDEgCf74WCBmdYQ9iuAEf52181204.shtml",
+      "video_id": "G_00101",
+      "start time": "0:11:1,7",
+      "end time": "0:11:15,20",
+      "split": "train",
+      "id": 101
+    },
+    {
+      "category": 0,
+      "url": "http://tv.cctv.com/2018/12/04/VIDEgCf74WCBmdYQ9iuAEf52181204.shtml",
+      "video_id": "G_00102",
+      "start time": "0:11:35,5",
+      "end time": "0:11:42,22",
+      "split": "train",
+      "id": 102
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/04/VIDEgCf74WCBmdYQ9iuAEf52181204.shtml",
+      "video_id": "G_00103",
+      "start time": "0:16:26,13",
+      "end time": "0:16:38,10",
+      "split": "train",
+      "id": 103
+    },
+    {
+      "category": 1,
+      "url": "http://tv.cctv.com/2018/12/04/VIDEgCf74WCBmdYQ9iuAEf52181204.shtml",
+      "video_id": "G_00104",
+      "start time": "0:18:52,13",
+      "end time": "0:19:5,4",
+      "split": "train",
+      "id": 104
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/05/VIDEr3qWl7FQ60p9SA2DXImO181205.shtml",
+      "video_id": "G_00105",
+      "start time": "0:24:20,14",
+      "end time": "0:24:29,11",
+      "split": "train",
+      "id": 105
+    },
+    {
+      "category": 0,
+      "url": "http://tv.cctv.com/2018/12/05/VIDEr3qWl7FQ60p9SA2DXImO181205.shtml",
+      "video_id": "G_00106",
+      "start time": "0:3:43,0",
+      "end time": "0:3:49,14",
+      "split": "train",
+      "id": 106
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/05/VIDEr3qWl7FQ60p9SA2DXImO181205.shtml",
+      "video_id": "G_00107",
+      "start time": "0:34:8,15",
+      "end time": "0:34:28,15",
+      "split": "train",
+      "id": 107
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/05/VIDEr3qWl7FQ60p9SA2DXImO181205.shtml",
+      "video_id": "G_00108",
+      "start time": "0:43:3,7",
+      "end time": "0:43:16,2",
+      "split": "train",
+      "id": 108
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/05/VIDEr3qWl7FQ60p9SA2DXImO181205.shtml",
+      "video_id": "G_00109",
+      "start time": "0:44:6,24",
+      "end time": "0:44:17,21",
+      "split": "train",
+      "id": 109
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/05/VIDEr3qWl7FQ60p9SA2DXImO181205.shtml",
+      "video_id": "G_00110",
+      "start time": "0:45:14,13",
+      "end time": "0:45:22,14",
+      "split": "train",
+      "id": 110
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/05/VIDEr3qWl7FQ60p9SA2DXImO181205.shtml",
+      "video_id": "G_00111",
+      "start time": "0:47:1,17",
+      "end time": "0:47:10,17",
+      "split": "train",
+      "id": 111
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/05/VIDEr3qWl7FQ60p9SA2DXImO181205.shtml",
+      "video_id": "G_00112",
+      "start time": "0:47:46,17",
+      "end time": "0:47:59,16",
+      "split": "train",
+      "id": 112
+    },
+    {
+      "category": 0,
+      "url": "http://tv.cctv.com/2018/12/05/VIDEr3qWl7FQ60p9SA2DXImO181205.shtml",
+      "video_id": "G_00113",
+      "start time": "0:1:3,0",
+      "end time": "0:1:16,20",
+      "split": "train",
+      "id": 113
+    },
+    {
+      "category": 0,
+      "url": "http://tv.cctv.com/2018/12/05/VIDEr3qWl7FQ60p9SA2DXImO181205.shtml",
+      "video_id": "G_00114",
+      "start time": "0:6:45,20",
+      "end time": "0:6:53,2",
+      "split": "train",
+      "id": 114
+    },
+    {
+      "category": 0,
+      "url": "http://tv.cctv.com/2018/12/05/VIDEr3qWl7FQ60p9SA2DXImO181205.shtml",
+      "video_id": "G_00115",
+      "start time": "0:2:33,9",
+      "end time": "0:2:41,8",
+      "split": "train",
+      "id": 115
+    },
+    {
+      "category": 0,
+      "url": "http://tv.cctv.com/2018/12/05/VIDEr3qWl7FQ60p9SA2DXImO181205.shtml",
+      "video_id": "G_00116",
+      "start time": "0:10:56,4",
+      "end time": "0:11:10,19",
+      "split": "train",
+      "id": 116
+    },
+    {
+      "category": 0,
+      "url": "http://tv.cctv.com/2018/12/05/VIDEr3qWl7FQ60p9SA2DXImO181205.shtml",
+      "video_id": "G_00117",
+      "start time": "0:11:19,22",
+      "end time": "0:11:28,6",
+      "split": "train",
+      "id": 117
+    },
+    {
+      "category": 1,
+      "url": "http://tv.cctv.com/2018/12/05/VIDEr3qWl7FQ60p9SA2DXImO181205.shtml",
+      "video_id": "G_00118",
+      "start time": "0:18:53,19",
+      "end time": "0:19:11,13",
+      "split": "train",
+      "id": 118
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/05/VIDEr3qWl7FQ60p9SA2DXImO181205.shtml",
+      "video_id": "G_00119",
+      "start time": "0:20:16,24",
+      "end time": "0:20:28,21",
+      "split": "train",
+      "id": 119
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/05/VIDEr3qWl7FQ60p9SA2DXImO181205.shtml",
+      "video_id": "G_00120",
+      "start time": "0:21:45,23",
+      "end time": "0:21:55,16",
+      "split": "train",
+      "id": 120
+    },
+    {
+      "category": 2,
+      "url": "http://tv.cctv.com/2018/12/06/VIDEVRjXkzLOpUaQmS6FaI0b181206.shtml",
+      "video_id": "G_00121",
+      "start time": "0:25:25,23",
+      "end time": "0:25:39,15",
+      "split": "train",
+      "id": 121
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/06/VIDEVRjXkzLOpUaQmS6FaI0b181206.shtml",
+      "video_id": "G_00122",
+      "start time": "0:29:9,2",
+      "end time": "0:29:17,6",
+      "split": "train",
+      "id": 122
+    },
+	
+	
+    {
+      "category": 3,
+      "url": "http://tv.cctv.com/2018/12/06/VIDEVRjXkzLOpUaQmS6FaI0b181206.shtml",
+      "video_id": "G_00123",
+      "start time": "0:29:47,3",
+      "end time": "0:29:54,18",
+      "split": "train",
+      "id": 123
+    },
+	{
+      "category": 3,
+      "url": "http://tv.cctv.com/2018/12/06/VIDEVRjXkzLOpUaQmS6FaI0b181206.shtml",
+      "video_id": "G_00124",
+      "start time": "0:32:53,18",
+      "end time": "0:33:1,6",
+      "split": "train",
+      "id": 124
+    },
+	{
+      "category": 3,
+      "url": "http://tv.cctv.com/2018/12/06/VIDEVRjXkzLOpUaQmS6FaI0b181206.shtml",
+      "video_id": "G_00125",
+      "start time": "0:33:9,22",
+      "end time": "0:33:16,22",
+      "split": "train",
+      "id": 125
+    },
+	{
+      "category": 3,
+      "url": "http://tv.cctv.com/2018/12/06/VIDEVRjXkzLOpUaQmS6FaI0b181206.shtml",
+      "video_id": "G_00126",
+      "start time": "0:33:53,8",
+      "end time": "0:34:0,14",
+      "split": "train",
+      "id": 126
+    },	
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/06/VIDEVRjXkzLOpUaQmS6FaI0b181206.shtml",
+      "video_id": "G_00127",
+      "start time": "0:41:24,17",
+      "end time": "0:41:36,11",
+      "split": "train",
+      "id": 127
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/06/VIDEVRjXkzLOpUaQmS6FaI0b181206.shtml",
+      "video_id": "G_00128",
+      "start time": "0:43:44,20",
+      "end time": "0:43:54,14",
+      "split": "train",
+      "id": 128
+    },
+    {
+      "category": 3,
+      "url": "http://tv.cctv.com/2018/12/06/VIDEVRjXkzLOpUaQmS6FaI0b181206.shtml",
+      "video_id": "G_00129",
+      "start time": "0:46:1,3",
+      "end time": "0:46:15,23",
+      "split": "train",
+      "id": 129
+    },
+    {
+      "category": 0,
+      "url": "http://tv.cctv.com/2018/12/06/VIDEVRjXkzLOpUaQmS6FaI0b181206.shtml",
+      "video_id": "G_00130",
+      "start time": "0:3:23,17",
+      "end time": "0:3:31,13",
+      "split": "train",
+      "id": 130
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/06/VIDEVRjXkzLOpUaQmS6FaI0b181206.shtml",
+      "video_id": "G_00131",
+      "start time": "0:47:51,13",
+      "end time": "0:47:59,9",
+      "split": "train",
+      "id": 131
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/06/VIDEVRjXkzLOpUaQmS6FaI0b181206.shtml",
+      "video_id": "G_00132",
+      "start time": "0:17:15,7",
+      "end time": "0:17:26,20",
+      "split": "train",
+      "id": 132
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/06/VIDEVRjXkzLOpUaQmS6FaI0b181206.shtml",
+      "video_id": "G_00133",
+      "start time": "0:18:10,21",
+      "end time": "0:18:21,20",
+      "split": "train",
+      "id": 133
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/06/VIDEVRjXkzLOpUaQmS6FaI0b181206.shtml",
+      "video_id": "G_00134",
+      "start time": "0:22:54,7",
+      "end time": "0:23:5,19",
+      "split": "train",
+      "id": 134
+    },
+    {
+      "category": 2,
+      "url": "http://tv.cctv.com/2018/12/06/VIDEVRjXkzLOpUaQmS6FaI0b181206.shtml",
+      "video_id": "G_00135",
+      "start time": "0:24:21,16",
+      "end time": "0:24:30,9",
+      "split": "train",
+      "id": 135
+    },
+    {
+      "category": 2,
+      "url": "http://tv.cctv.com/2018/12/06/VIDEVRjXkzLOpUaQmS6FaI0b181206.shtml",
+      "video_id": "G_00136",
+      "start time": "0:24:30,21",
+      "end time": "0:24:39,9",
+      "split": "train",
+      "id": 136
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/07/VIDEhEPMXN7jktSPzeXaqIbF181207.shtml",
+      "video_id": "G_00137",
+      "start time": "0:40:28,13",
+      "end time": "0:40:46,19",
+      "split": "train",
+      "id": 137
+    },
+	{
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/07/VIDEhEPMXN7jktSPzeXaqIbF181207.shtml",
+      "video_id": "G_00138",
+      "start time": "0:40:47,6",
+      "end time": "0:40:54,18",
+      "split": "train",
+      "id": 138
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/07/VIDEhEPMXN7jktSPzeXaqIbF181207.shtml",
+      "video_id": "G_00139",
+      "start time": "0:41:59,13",
+      "end time": "0:42:6,18",
+      "split": "train",
+      "id": 139
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/07/VIDEhEPMXN7jktSPzeXaqIbF181207.shtml",
+      "video_id": "G_00140",
+      "start time": "0:44:53,15",
+      "end time": "0:45:12,8",
+      "split": "train",
+      "id": 140
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/07/VIDEhEPMXN7jktSPzeXaqIbF181207.shtml",
+      "video_id": "G_0141",
+      "start time": "0:45:35,2",
+      "end time": "0:45:51,17",
+      "split": "train",
+      "id": 141
+    },
+	{
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/07/VIDEhEPMXN7jktSPzeXaqIbF181207.shtml",
+      "video_id": "G_00142",
+      "start time": "0:48:39,2",
+      "end time": "0:48:58,22",
+      "split": "train",
+      "id": 142
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/07/VIDEhEPMXN7jktSPzeXaqIbF181207.shtml",
+      "video_id": "G_00143",
+      "start time": "0:17:10,3",
+      "end time": "0:17:23,14",
+      "split": "train",
+      "id": 143
+    },
+	{
+      "category": 2,
+      "url": "http://tv.cctv.com/2018/12/07/VIDEhEPMXN7jktSPzeXaqIbF181207.shtml",
+      "video_id": "G_00144",
+      "start time": "0:21:16,10",
+      "end time": "0:21:32,14",
+      "split": "train",
+      "id": 144
+    },
+	{
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/07/VIDEhEPMXN7jktSPzeXaqIbF181207.shtml",
+      "video_id": "G_00145",
+      "start time": "0:26:14,4",
+      "end time": "0:26:24,6",
+      "split": "train",
+      "id": 145
+    },
+	{
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/07/VIDEhEPMXN7jktSPzeXaqIbF181207.shtml",
+      "video_id": "G_00146",
+      "start time": "0:26:39,23",
+      "end time": "0:26:53,10",
+      "split": "train",
+      "id": 146
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/07/VIDEhEPMXN7jktSPzeXaqIbF181207.shtml",
+      "video_id": "G_00147",
+      "start time": "0:27:59,4",
+      "end time": "0:28:6,0",
+      "split": "train",
+      "id": 147
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/07/VIDEhEPMXN7jktSPzeXaqIbF181207.shtml",
+      "video_id": "G_00148",
+      "start time": "0:29:53,2",
+      "end time": "0:30:1,14",
+      "split": "train",
+      "id": 148
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/08/VIDEV876CNYlAZb5ZMVZJDE3181208.shtml",
+      "video_id": "G_00149",
+      "start time": "0:2:24,2",
+      "end time": "0:2:38,1",
+      "split": "train",
+      "id": 149
+    },
+    {
+      "category": 1,
+      "url": "http://tv.cctv.com/2018/12/08/VIDEV876CNYlAZb5ZMVZJDE3181208.shtml",
+      "video_id": "G_00150",
+      "start time": "0:36:14,14",
+      "end time": "0:36:20,21",
+      "split": "train",
+      "id": 150
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/08/VIDEV876CNYlAZb5ZMVZJDE3181208.shtml",
+      "video_id": "G_00151",
+      "start time": "0:2:38,13",
+      "end time": "0:2:44,18",
+      "split": "train",
+      "id": 151
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/08/VIDEV876CNYlAZb5ZMVZJDE3181208.shtml",
+      "video_id": "G_00152",
+      "start time": "0:41:23,15",
+      "end time": "0:41:32,2",
+      "split": "train",
+      "id": 152
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/08/VIDEV876CNYlAZb5ZMVZJDE3181208.shtml",
+      "video_id": "G_00153",
+      "start time": "0:46:4,20",
+      "end time": "0:46:22,17",
+      "split": "train",
+      "id": 153
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/08/VIDEV876CNYlAZb5ZMVZJDE3181208.shtml",
+      "video_id": "G_00154",
+      "start time": "0:46:52,13",
+      "end time": "0:47:1,21",
+      "split": "train",
+      "id": 154
+    },
+    {
+      "category": 8,
+      "url": "http://tv.cctv.com/2018/12/08/VIDEV876CNYlAZb5ZMVZJDE3181208.shtml",
+      "video_id": "G_00155",
+      "start time": "0:47:29,2",
+      "end time": "0:47:36,20",
+      "split": "train",
+      "id": 155
+    },
+	{
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/08/VIDEV876CNYlAZb5ZMVZJDE3181208.shtml",
+      "video_id": "G_00156",
+      "start time": "0:6:14,1",
+      "end time": "0:6:22,4",
+      "split": "train",
+      "id": 156
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/08/VIDEV876CNYlAZb5ZMVZJDE3181208.shtml",
+      "video_id": "G_00157",
+      "start time": "0:6:36,17",
+      "end time": "0:6:52,9",
+      "split": "train",
+      "id": 157
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/08/VIDEV876CNYlAZb5ZMVZJDE3181208.shtml",
+      "video_id": "G_00158",
+      "start time": "0:11:44,18",
+      "end time": "0:12:3,20",
+      "split": "train",
+      "id": 158
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/08/VIDEV876CNYlAZb5ZMVZJDE3181208.shtml",
+      "video_id": "G_00159",
+      "start time": "0:13:20,2",
+      "end time": "0:13:27,8",
+      "split": "train",
+      "id": 159
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/08/VIDEV876CNYlAZb5ZMVZJDE3181208.shtml",
+      "video_id": "G_00160",
+      "start time": "0:13:41,17",
+      "end time": "0:13:50,6",
+      "split": "train",
+      "id": 160
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/08/VIDEV876CNYlAZb5ZMVZJDE3181208.shtml",
+      "video_id": "G_00161",
+      "start time": "0:18:6,12",
+      "end time": "0:18:14,20",
+      "split": "train",
+      "id": 161
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/08/VIDEV876CNYlAZb5ZMVZJDE3181208.shtml",
+      "video_id": "G_00162",
+      "start time": "0:18:40,12",
+      "end time": "0:18:51,1",
+      "split": "train",
+      "id": 162
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/08/VIDEV876CNYlAZb5ZMVZJDE3181208.shtml",
+      "video_id": "G_00163",
+      "start time": "0:20:26,14",
+      "end time": "0:20:36,4",
+      "split": "train",
+      "id": 163
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/08/VIDEV876CNYlAZb5ZMVZJDE3181208.shtml",
+      "video_id": "G_00164",
+      "start time": "0:24:52,18",
+      "end time": "0:25:9,23",
+      "split": "train",
+      "id": 164
+    },
+    {
+      "category": 2,
+      "url": "http://tv.cctv.com/2018/12/08/VIDEV876CNYlAZb5ZMVZJDE3181208.shtml",
+      "video_id": "G_00165",
+      "start time": "0:30:36,14",
+      "end time": "0:30:51,20",
+      "split": "train",
+      "id": 165
+    },
+    {
+      "category": 2,
+      "url": "http://tv.cctv.com/2018/12/08/VIDEV876CNYlAZb5ZMVZJDE3181208.shtml",
+      "video_id": "G_00166",
+      "start time": "0:31:2,17",
+      "end time": "0:31:8,20",
+      "split": "train",
+      "id": 166
+    },
+    {
+      "category": 2,
+      "url": "http://tv.cctv.com/2018/12/08/VIDEV876CNYlAZb5ZMVZJDE3181208.shtml",
+      "video_id": "G_00167",
+      "start time": "0:33:24,10",
+      "end time": "0:33:34,18",
+      "split": "train",
+      "id": 167
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/09/VIDEnJtOL31qwOflYjtaKt4t181209.shtml",
+      "video_id": "G_00168",
+      "start time": "0:33:42,4",
+      "end time": "0:33:52,19",
+      "split": "train",
+      "id": 168
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/09/VIDEnJtOL31qwOflYjtaKt4t181209.shtml",
+      "video_id": "G_00169",
+      "start time": "0:5:7,4",
+      "end time": "0:5:21,3",
+      "split": "train",
+      "id": 169
+    },
+    {
+      "category": 1,
+      "url": "http://tv.cctv.com/2018/12/09/VIDEnJtOL31qwOflYjtaKt4t181209.shtml",
+      "video_id": "G_00170",
+      "start time": "0:36:21,22",
+      "end time": "0:36:39,4",
+      "split": "test",
+      "id": 170
+    },
+    {
+      "category": 1,
+      "url": "http://tv.cctv.com/2018/12/09/VIDEnJtOL31qwOflYjtaKt4t181209.shtml",
+      "video_id": "G_00171",
+      "start time": "0:39:9,11",
+      "end time": "0:39:28,9",
+      "split": "test",
+      "id": 171
+    },
+    {
+      "category": 1,
+      "url": "http://tv.cctv.com/2018/12/09/VIDEnJtOL31qwOflYjtaKt4t181209.shtml",
+      "video_id": "G_00172",
+      "start time": "0:39:28,21",
+      "end time": "0:39:40,6",
+      "split": "test",
+      "id": 172
+    },
+    {
+      "category": 4,
+      "url": "http://tv.cctv.com/2018/12/09/VIDEnJtOL31qwOflYjtaKt4t181209.shtml",
+      "video_id": "G_00173",
+      "start time": "0:5:21,15",
+      "end time": "0:5:36,7",
+      "split": "test",
+      "id": 173
+    }
+  ],
+   "sentences": [
+    {
+      "caption": "A group of people are holding an international conference",
+      "sen_id": 0,
+      "video_id": "G_00100"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00100",
+      "caption": "There is a lot of water and flowers on the table"
+    },
+	{
+      "caption": "China and Panama Leaders'Meeting",
+      "sen_id": 2,
+      "video_id": "G_00100"
+    },
+	{
+      "caption": "People are discussing the cause of friendly cooperation between China and Panama.",
+      "video_id": "G_00100",
+      "sen_id": 3
+    },
+	{
+      "caption": "The two groups met opposite the table.",
+      "video_id": "G_00100",
+      "sen_id": 4
+    },
+	{
+      "caption": "There are many flags on the wall.",
+      "video_id": "G_00100",
+      "sen_id": 5
+    },
+	{
+      "caption": "A group of leaders met in the conference hall.",
+      "video_id": "G_00100",
+      "sen_id": 6
+    },
+	{
+      "caption": "There is a microphone on the table.",
+      "video_id": "G_00100",
+      "sen_id": 7
+    },
+	{
+      "caption": "A man is speaking.",
+      "video_id": "G_00100",
+      "sen_id": 8
+    },
+	{
+      "caption": "There are many green plants in the room.",
+      "video_id": "G_00100",
+      "sen_id": 9
+    },
+    {
+      "caption": "A group of people are applauding",
+      "sen_id": 0,
+      "video_id": "G_00101"
+    },
+	{
+      "caption": "Xi Jinping Meeting with President of Panama",
+      "sen_id": 1,
+      "video_id": "G_00101"
+    },
+	{
+      "caption": "People attend the Economic and Trade Cooperation Forum",
+      "sen_id": 2,
+      "video_id": "G_00101"
+    },
+	{
+      "caption": "A group of people took a group photo.",
+      "sen_id": 3,
+      "video_id": "G_00101"
+    },
+	{
+      "caption": "Representatives of entrepreneurs from both sides attended BBS",
+      "sen_id": 4,
+      "video_id": "G_00101"
+    },
+	{
+      "caption": "People wear black suits",
+      "sen_id": 5,
+      "video_id": "G_00101"
+    },
+	{
+      "caption": "Somebody's taking pictures",
+      "sen_id": 6,
+      "video_id": "G_00101"
+    },
+	{
+      "caption": "Xi jinping in panama",
+      "sen_id": 7,
+      "video_id": "G_00101"
+    },
+	{
+      "caption": "There are Chinese flags inside",
+      "sen_id": 8,
+      "video_id": "G_00101"
+    },
+	{
+      "caption": "People stood inside",
+      "sen_id": 9,
+      "video_id": "G_00101"
+    },
+    {
+      "caption": "A man is speaking",
+      "sen_id": 0,
+      "video_id": "G_00102"
+    },
+	{
+      "caption": "China sincerely opens its market to other countries",
+      "sen_id": 1,
+      "video_id": "G_00102"
+    },
+	{
+      "caption": "A man in a black suit",
+      "sen_id": 2,
+      "video_id": "G_00102"
+    },
+	{
+      "caption": "China welcomes entrepreneurs from all over the world to invest in China",
+      "sen_id": 3,
+      "video_id": "G_00102"
+    },
+	{
+      "caption": "A man listens to the speech",
+      "sen_id": 4,
+      "video_id": "G_00102"
+    },
+	{
+      "caption": "A man nodded",
+      "sen_id": 5,
+      "video_id": "G_00102"
+    },
+	{
+      "caption": "There are pictures on the wall.",
+      "sen_id": 6,
+      "video_id": "G_00102"
+    },
+	{
+      "caption": "A man wears a red tie",
+      "sen_id": 7,
+      "video_id": "G_00102"
+    },
+	{
+      "caption": "A man wears a gray tie",
+      "sen_id": 8,
+      "video_id": "G_00102"
+    },
+	{
+      "caption": "China welcomes Panamanian entrepreneurs to invest in China",
+      "sen_id": 9,
+      "video_id": "G_00102"
+    },
+    {
+      "caption": "A man is talking",
+      "sen_id": 0,
+      "video_id": "G_00103"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00103",
+      "caption": "A middle-aged man with glasses was talking."
+    },
+	{
+      "caption": "Tickets in Life Become History",
+      "sen_id": 2,
+      "video_id": "G_00103"
+    },
+	{
+      "caption": "Furniture Show Before Reform and Opening-up",
+      "video_id": "G_00103",
+      "sen_id": 3
+    },
+	{
+      "caption": "Food stamps are no longer needed",
+      "video_id": "G_00103",
+      "sen_id": 4
+    },
+	{
+      "caption": "A man speaks in front of the microphone",
+      "video_id": "G_00103",
+      "sen_id": 5
+    },
+	{
+      "caption": "A person in an interview",
+      "video_id": "G_00103",
+      "sen_id": 6
+    },
+	{
+      "caption": "There is an old lamp on the table.",
+      "video_id": "G_00103",
+      "sen_id": 7
+    },
+	{
+      "caption": "A lot of old furniture was displayed.",
+      "video_id": "G_00103",
+      "sen_id": 8
+    },
+	{
+      "caption": "There is an electric fan on the ground.",
+      "video_id": "G_00103",
+      "sen_id": 9
+    },
+    {
+      "caption": "Ukraine strengthens its defense along the Russian-Ukrainian border",
+      "sen_id": 0,
+      "video_id": "G_00104"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00104",
+      "caption": "A machine gun is on display."
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00104",
+      "caption": "Ukraine will redeploy its troops"
+    },
+	{
+      "caption": "A pile of equipment on display along the border between Ukraine and Russia",
+      "video_id": "G_00104",
+      "sen_id": 3
+    },
+	{
+      "caption": "An armored car parked on the roadside",
+      "video_id": "G_00104",
+      "sen_id": 4
+    },
+	{
+      "caption": "Ukraine will conduct reserve training",
+      "video_id": "G_00104",
+      "sen_id": 5
+    },
+	{
+      "caption": "Weapons defend the border",
+      "video_id": "G_00104",
+      "sen_id": 6
+    },
+	{
+      "caption": "A man passed under the muzzle of a gun.",
+      "video_id": "G_00104",
+      "sen_id": 7
+    },
+	{
+      "caption": "A man in black is walking",
+      "video_id": "G_00104",
+      "sen_id": 8
+    },
+	{
+      "caption": "An armed vehicle",
+      "video_id": "G_00104",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00105",
+      "caption": "The host listened to the reporter's Report"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00105",
+      "caption": "A static picture is flickering"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00105",
+      "caption": "A Case of Boys Lost in Wenzhou, Zhejiang Province"
+    },
+	{
+      "caption": "Mothers of the boy were taken compulsory measures",
+      "video_id": "G_00105",
+      "sen_id": 3
+    },
+	{
+      "caption": "It shows many Chinese characters.",
+      "video_id": "G_00105",
+      "sen_id": 4
+    },
+	{
+      "caption": "The mother of the child fabricated false information.",
+      "video_id": "G_00105",
+      "sen_id": 5
+    },
+	{
+      "caption": "A photograph of inspiration",
+      "video_id": "G_00105",
+      "sen_id": 6
+    },
+	{
+      "caption": "Reporter's Voice Report",
+      "video_id": "G_00105",
+      "sen_id": 7
+    },
+	{
+      "caption": "There are many Chinese characters.",
+      "video_id": "G_00105",
+      "sen_id": 8
+    },
+	{
+      "caption": "The mother of the child deliberately disseminates false information.",
+      "video_id": "G_00105",
+      "sen_id": 9
+    },
+
+	{
+      "sen_id": 0,
+      "caption": "Two men were smiling and shaking hands.",
+      "video_id": "G_00106"
+    },
+	{
+	  "sen_id": 1,
+      "caption": "The heads of state of the two countries mounted the review stand",
+      "video_id": "G_00106"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00106",
+      "caption": "Many people are in front of a house."
+    },
+	{
+      "sen_id": 3,
+      "video_id": "G_00106",
+      "caption": "Two men in suits"
+    },
+	{
+      "sen_id": 4,
+      "video_id": "G_00106",
+      "caption": "Flag of China"
+    },
+	{
+      "sen_id": 5,
+      "video_id": "G_00106",
+      "caption": "There are many flags."
+    },
+	{
+      "sen_id": 6,
+      "video_id": "G_00106",
+      "caption": "Two soldiers saluted"
+    },
+	{
+      "sen_id": 7,
+      "caption": "The two heads of state are taking pictures.",
+      "video_id": "G_00106"
+    },
+	{
+      "sen_id": 8,
+      "caption": "Many people stood in front of the building.",
+      "video_id": "G_00106"
+    },
+	{
+      "sen_id": 9,
+      "caption": "The two men were shaking hands.",
+      "video_id": "G_00106"
+    },
+	{
+      "sen_id": 0,
+      "caption": "Many vehicles are on the road.",
+      "video_id": "G_00107"
+    },
+	{
+      "caption": "The roof was covered with snow.",
+      "video_id": "G_00107",
+      "sen_id": 1
+    },
+	{
+      "caption": "The house has a chimney.",
+      "video_id": "G_00107",
+      "sen_id": 2
+    },
+	{
+      "caption": "The road was covered with snow.",
+      "video_id": "G_00107",
+      "sen_id": 3
+    },
+    {
+      "caption": "People walk on the snowy road",
+      "video_id": "G_00107",
+      "sen_id": 4
+    },
+	{
+      "caption": "The road was frozen.",
+      "video_id": "G_00107",
+      "sen_id": 5
+    },
+	{
+      "caption": "Cold air strikes",
+      "video_id": "G_00107",
+      "sen_id": 6
+    },
+	{
+      "caption": "Temperature in Hulunbuir dropped to - 30 degrees Celsius",
+      "video_id": "G_00107",
+      "sen_id": 7
+    },
+	{
+      "caption": "The temperature dropped by about 25 degrees Celsius.",
+      "video_id": "G_00107",
+      "sen_id": 8
+    },
+	{
+      "caption": "The combination of snow and wind makes people feel cold.",
+      "video_id": "G_00107",
+      "sen_id": 9
+    },
+
+	{
+      "caption": "There are many shops on the road.",
+      "video_id": "G_00108",
+      "sen_id": 0
+    },
+	{
+      "caption": "A policeman is chasing a man",
+      "video_id": "G_00108",
+      "sen_id": 1
+    },
+	{
+      "caption": "The police caught the escaped man.",
+      "video_id": "G_00108",
+      "sen_id": 2
+    },
+	{
+      "caption": "Two men running",
+      "video_id": "G_00108",
+      "sen_id": 3
+    },
+	{
+      "caption": "People come and go on the road",
+      "video_id": "G_00108",
+      "sen_id": 4
+    },
+	{
+      "caption": "The man was caught out of his strength",
+      "video_id": "G_00108",
+      "sen_id": 5
+    },
+	{
+      "sen_id": 6,
+      "caption": "The escaped prisoner ran into the shop",
+      "video_id": "G_00108"
+    },
+	{
+      "sen_id": 7,
+      "video_id": "G_00108",
+      "caption": "Four policemen surrounded a man"
+    },
+	{
+      "sen_id": 8,
+      "caption": "One man chased another",
+      "video_id": "G_00108"
+    },
+	{
+      "caption": "The criminal was caught",
+      "video_id": "G_00108",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "caption": "A man rides a motorcycle",
+      "video_id": "G_00109"
+	},
+	{
+      "sen_id": 1,
+      "video_id": "G_00109",
+      "caption": "A man is putting on a dangerous ride"
+    },
+	{
+      "caption": "Several people stood by the motorcycle",
+      "video_id": "G_00109",
+      "sen_id": 2
+    },
+	{
+      "caption": "The police stopped the motorcyclist",
+      "video_id": "G_00109",
+      "sen_id": 3
+    },
+	{
+      "caption": "A man on a fancy motorcycle at night",
+      "video_id": "G_00109",
+      "sen_id": 4
+    },
+	{
+      "caption": "The driver involved was driving without a license",
+      "video_id": "G_00109",
+      "sen_id": 5
+    },
+	{
+      "caption": "Police impound motorcycle",
+      "video_id": "G_00109",
+      "sen_id": 6
+    },
+	{
+      "caption": "Motorcycles have no license",
+      "video_id": "G_00109",
+      "sen_id": 7
+    },
+	{
+      "caption": "Civilian police seized motorcycle drivers",
+      "video_id": "G_00109",
+      "sen_id": 8
+    },
+	{
+      "caption": "Civilian police seized motorcycles",
+      "video_id": "G_00109",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "caption": "Two cars collided",
+      "video_id": "G_00110"
+    },
+	{
+      "sen_id": 1,
+      "caption": "Yellow and White Cars Collision",
+      "video_id": "G_00110"
+    },
+	{
+      "caption": "The traffic police questioned the driver at the scene",
+      "video_id": "G_00110",
+      "sen_id": 2
+    },
+	{
+      "sen_id": 3,
+      "caption": "The yellow car was badly damaged",
+      "video_id": "G_00110"
+    },
+	{
+      "sen_id": 4,
+      "caption": "The white car was badly damaged",
+      "video_id": "G_00110"
+    },
+	{
+      "sen_id": 5,
+      "caption": "A middle-aged man was wearing a cap",
+      "video_id": "G_00110"
+    },
+    {
+      "sen_id": 6,
+      "caption": "One man said he was driving a car",
+      "video_id": "G_00110"
+    },
+	{
+      "sen_id": 7,
+      "caption": "A night traffic accident",
+      "video_id": "G_00110"
+    },
+	{
+      "sen_id": 8,
+      "caption": "The traffic police took evidence at the scene",
+      "video_id": "G_00110"
+    },
+	{
+      "sen_id": 9,
+      "caption": "The driver crashed drunk",
+      "video_id": "G_00110"
+    },
+	{
+      "sen_id": 0,
+      "caption": "Several buses are running",
+      "video_id": "G_00111"
+    },
+	{
+      "caption": "A group of soldiers stood in line",
+      "video_id": "G_00111",
+      "sen_id": 1
+    },
+	{
+      "caption": "Many buses are moving",
+      "video_id": "G_00111",
+      "sen_id": 2
+    },
+	{
+      "caption": "Soldiers saw off the last session",
+      "video_id": "G_00111",
+      "sen_id": 3
+    },
+	{
+      "caption": "Several people waved from the bus",
+      "video_id": "G_00111",
+      "sen_id": 4
+    },
+	{
+      "caption": "Two buses carried soldiers",
+      "video_id": "G_00111",
+      "sen_id": 5
+    },
+	{
+      "caption": "The officers were waving",
+      "video_id": "G_00111",
+      "sen_id": 6
+    },
+	{
+      "caption": "The officers lined up to say goodbye",
+      "video_id": "G_00111",
+      "sen_id": 7
+    },
+	{
+      "caption": "The officers faithfully performed their duties while on duty",
+      "video_id": "G_00111",
+      "sen_id": 8
+    },
+	{
+      "caption": "Rotation of troops in Hong Kong",
+      "video_id": "G_00111",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00112",
+      "caption": "Many soldiers shake hands."
+    },
+	{
+      "caption": "A group of soldiers embraced",
+      "video_id": "G_00112",
+      "sen_id": 1
+    },
+	{
+      "caption": "Soldiers salute and say goodbye",
+      "video_id": "G_00112",
+      "sen_id": 2
+    },
+	{
+      "caption": "The soldiers embraced goodbye",
+      "video_id": "G_00112",
+      "sen_id": 3
+    },
+	{
+      "caption": "Soldiers in Australia complete various tasks",
+      "video_id": "G_00112",
+      "sen_id": 4
+    },
+	{
+      "caption": "Men in military uniforms were shaking hands and saluting each other",
+      "video_id": "G_00112",
+      "sen_id": 5
+    },
+	{
+      "caption": "The men in uniform shook hands and saluted",
+      "video_id": "G_00112",
+      "sen_id": 6
+    },
+	{
+      "caption": "The officer returned to the interior to resume his work",
+      "video_id": "G_00112",
+      "sen_id": 7
+    },
+	{
+      "caption": "The officers were marching in step",
+      "video_id": "G_00112",
+      "sen_id": 8
+    },
+	{
+      "caption": "The officers bused off",
+      "video_id": "G_00112",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "caption": "A couple stepped out of the plane",
+      "video_id": "G_00113"
+    },
+	{
+      "caption": "The two men walked out of the plane holding hands",
+      "video_id": "G_00113",
+      "sen_id": 1
+    },
+	{
+      "caption": "The two men got off the plane",
+      "video_id": "G_00113",
+      "sen_id": 2
+    },
+	{
+      "caption": "Many people were waiting for a man and a woman to get off the plane",
+      "video_id": "G_00113",
+      "sen_id": 3
+    },
+	{
+      "caption": "People are shaking hands",
+      "video_id": "G_00113",
+      "sen_id": 4
+    },
+	{
+      "caption": "The soldiers stood in a line with guns",
+      "video_id": "G_00113",
+      "sen_id": 5
+    },
+	{
+      "caption": "Xi jinping extended sincere greetings to Portugal",
+      "video_id": "G_00113",
+      "sen_id": 6
+    },
+	{
+      "caption": "Soldiers salute Xi Jinping",
+      "video_id": "G_00113",
+      "sen_id": 7
+    },
+	{
+      "caption": "Xi Jinping pointed out that China and Portugal are traditional friendly countries.",
+      "video_id": "G_00113",
+      "sen_id": 8
+    },
+	{
+      "caption": "Xi Jinping's Visit Portugal",
+      "video_id": "G_00113",
+      "sen_id": 9
+    },
+
+	{
+      "sen_id": 0,
+      "video_id": "G_00114",
+      "caption": "Many people waved the national flag."
+    },
+	{
+      "caption": "Many people hold the national flag.",
+      "video_id": "G_00114",
+      "sen_id": 1
+    },
+	{
+      "caption": "People welcomed a man",
+      "video_id": "G_00114",
+      "sen_id": 2
+    },
+	{
+      "caption": "A group of people waved flags outside the railings",
+      "video_id": "G_00114",
+      "sen_id": 3
+    },
+	{
+      "caption": "A crowd gathered in the square",
+      "video_id": "G_00114",
+      "sen_id": 4
+    },
+	{
+      "caption": "People held banners welcoming President xi",
+      "video_id": "G_00114",
+      "sen_id": 5
+    },
+	{
+      "caption": "People are giving President xi a warm welcome",
+      "video_id": "G_00114",
+      "sen_id": 6
+    },
+	{
+      "caption": "People crowded in the square.",
+      "video_id": "G_00114",
+      "sen_id": 7
+    },
+	{
+      "caption": "People hold the Chinese flag.",
+      "video_id": "G_00114",
+      "sen_id": 8
+    },
+	{
+      "caption": "People shouted welcome Chairman Xi",
+      "video_id": "G_00114",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "caption": "Two people shaking hands",
+      "video_id": "G_00115"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00115",
+      "caption": "The soldiers held guns."
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00115",
+      "caption": "Many people were standing on either side of the plane."
+    },
+	{
+      "sen_id": 3,
+      "video_id": "G_00115",
+      "caption": "Two people were shaking hands and talking."
+    },
+	{
+      "sen_id": 4,
+      "video_id": "G_00115",
+      "caption": "The soldiers stood in a row with guns raised."
+    },
+	{
+      "sen_id": 5,
+      "video_id": "G_00115",
+      "caption": "Xi Jinping Leaves Panama"
+    },
+	{
+      "sen_id": 6,
+      "video_id": "G_00115",
+      "caption": "The President of Panama saw off at the airport"
+    },
+	{
+      "sen_id": 7,
+      "video_id": "G_00115",
+      "caption": "很多人在机场"
+    },
+	{
+      "sen_id": 8,
+      "video_id": "G_00115",
+      "caption": "The soldiers stood in a line"
+    },
+	{
+      "sen_id": 9,
+      "video_id": "G_00115",
+      "caption": "A plane was parked at the airport"
+    },
+
+	{
+      "caption": "A man lays a wreath for a man",
+      "video_id": "G_00116",
+      "sen_id": 0
+    },
+	{
+      "caption": "A man is laying a wreath",
+      "video_id": "G_00116",
+      "sen_id": 1
+    },
+	{
+      "caption": "A man stood in front of a white wreath",
+      "video_id": "G_00116",
+      "sen_id": 2
+    },
+	{
+      "caption": "The man laid flowers at the grave",
+      "video_id": "G_00116",
+      "sen_id": 3
+    },
+	{
+      "sen_id": 4,
+      "caption": "A man is arranging a wreath",
+      "video_id": "G_00116"
+    },
+	{
+      "caption": "A man is laying a wreath",
+      "video_id": "G_00116",
+      "sen_id": 5
+    },
+	{
+      "caption": "A man stood in front of the wreath",
+      "video_id": "G_00116",
+      "sen_id": 6
+    },
+	{
+      "caption": "Xi jinping laid a wreath for poets and national heroes",
+      "video_id": "G_00116",
+      "sen_id": 7
+    },
+	{
+      "caption": "The soldier stood behind the wreath",
+      "video_id": "G_00116",
+      "sen_id": 8
+    },
+	{
+      "caption": "Soldier with weapon",
+      "video_id": "G_00116",
+      "sen_id": 9
+    },
+	{
+      "caption": "Three porcelain",
+      "video_id": "G_00117",
+      "sen_id": 0
+    },
+	{
+      "caption": "A man visits a natural history exhibition with a foreign leader",
+      "video_id": "G_00117",
+      "sen_id": 1
+    },
+	{
+      "caption": "A group of people visited the cultural relics together",
+      "video_id": "G_00117",
+      "sen_id": 2
+    },
+	{
+      "caption": "There are some beautifully made cups and so on the table",
+      "video_id": "G_00117",
+      "sen_id": 3
+    },
+	{
+      "caption": "Couples attend cultural relics exhibitions",
+      "video_id": "G_00117",
+      "sen_id": 4
+    },
+	{
+      "sen_id": 5,
+      "caption": "A group of people are talking and admiring the cultural relics",
+      "video_id": "G_00117"
+    },
+	{
+      "sen_id": 6,
+      "video_id": "G_00117",
+      "caption": "Many artifacts appear on camera"
+    },
+	{
+      "caption": "A group of people visited the cultural relics",
+      "video_id": "G_00117",
+      "sen_id": 7
+    },
+	{
+      "caption": "People visit cultural relics exhibitions",
+      "video_id": "G_00117",
+      "sen_id": 8
+    },
+	{
+      "caption": "People visit the Palace Museum's fine cultural relics along the maritime silk road",
+      "video_id": "G_00117",
+      "sen_id": 9
+    },
+	{
+      "caption": "A car was driving on the highway",
+      "video_id": "G_00118",
+      "sen_id": 0
+    },
+	{
+      "caption": "There are many cars on the road",
+      "video_id": "G_00118",
+      "sen_id": 1
+    },
+	{
+      "caption": "A motorcade was moving",
+      "video_id": "G_00118",
+      "sen_id": 2
+    },
+	{
+      "caption": "There are many military vehicles parked by the roadside",
+      "video_id": "G_00118",
+      "sen_id": 3
+    },
+	{
+      "caption": "The car was full of weapons.",
+      "video_id": "G_00118",
+      "sen_id": 4
+    },
+	{
+      "sen_id": 5,
+      "caption": "A lot of big trucks are driving on the highway.",
+      "video_id": "G_00118"
+    },
+	{
+      "sen_id": 6,
+      "video_id": "G_00118",
+      "caption": "A police car escorted the truck on the road"
+    },
+	{
+      "sen_id": 7,
+      "video_id": "G_00118",
+      "caption": "The Russian Army has stepped up its combat readiness in the Black Sea"
+    },
+	{
+      "sen_id": 8,
+      "video_id": "G_00118",
+      "caption": "The Russian army is ready for military preparations."
+    },
+	{
+      "sen_id": 9,
+      "video_id": "G_00118",
+      "caption": "Russian convoys on the highway"
+    },
+
+	{
+      "sen_id": 0,
+      "caption": "A group of policemen escorted a criminal",
+      "video_id": "G_00119"
+    },
+	{
+      "caption": "A man was escorted by the police.",
+      "video_id": "G_00119",
+      "sen_id": 1
+    },
+	{
+      "caption": "One man was taken away by two men",
+      "video_id": "G_00119",
+      "sen_id": 2
+    },
+    {
+      "sen_id": 3,
+      "caption": "A group of policemen escorted a criminal",
+      "video_id": "G_00119"
+    },
+	{
+      "sen_id": 4,
+      "video_id": "G_00119",
+      "caption": "A criminal was extradited home"
+    },
+	{
+      "sen_id": 5,
+      "video_id": "G_00119",
+      "caption": "The suspect returned home to surrender"
+    },
+	{
+      "sen_id": 6,
+      "video_id": "G_00119",
+      "caption": "The escaped prisoner returned to his country"
+    },
+	{
+      "sen_id": 7,
+      "video_id": "G_00119",
+      "caption": "Bribery criminals return home to surrender"
+    },
+	{
+      "sen_id": 8,
+      "video_id": "G_00119",
+      "caption": "The suspect of duty crime was arrested"
+    },
+	{
+      "sen_id": 9,
+      "video_id": "G_00119",
+      "caption": "Former Deputy Secretary of Xiamen Party Committee suspected of accepting bribes"
+    },
+
+	{
+      "sen_id": 0,
+      "video_id": "G_00120",
+      "caption": "There are some web pages"
+    },
+	{
+      "caption": "Two-Dimensional Code for Wechat Payment",
+      "video_id": "G_00120",
+      "sen_id": 1
+    },
+	{
+      "caption": "User Infection with Extortion Virus",
+      "video_id": "G_00120",
+      "sen_id": 2
+    },
+	{
+      "caption": "Male anchorman broadcasts news",
+      "video_id": "G_00120",
+      "sen_id": 3
+    },
+	{
+      "caption": "Blackmail virus resurgence",
+      "video_id": "G_00120",
+      "sen_id": 4
+    },
+	{
+      "caption": "More than 100,000 users are infected with the virus",
+      "video_id": "G_00120",
+      "sen_id": 5
+    },
+	{
+      "caption": "Blackmail Virus Targets Wechat",
+      "video_id": "G_00120",
+      "sen_id": 6
+    },
+	{
+      "caption": "The number of infected viruses is increasing",
+      "video_id": "G_00120",
+      "sen_id": 7
+    },
+	{
+      "caption": "Wechat ransom virus in China",
+      "video_id": "G_00120",
+      "sen_id": 8
+    },
+	{
+      "caption": "Watch out for big screens with viral characters",
+      "video_id": "G_00120",
+      "sen_id": 9
+    },
+	{
+      "video_id": "G_00121",
+      "caption": "Russia Publishes Laser Weapons",
+      "sen_id": 0
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00121",
+      "caption": "A laser weapon in operation"
+    },
+	{
+      "caption": "A green car",
+      "video_id": "G_00121",
+      "sen_id": 3
+    },
+	{
+      "caption": "Laser Weapon System Display",
+      "video_id": "G_00121",
+      "sen_id": 4
+    },
+	{
+      "caption": "Russia Publishes Video of Laser Weapons",
+      "video_id": "G_00121",
+      "sen_id": 5
+    },
+	{
+      "caption": "Some weapons and equipment are in operation.",
+      "video_id": "G_00121",
+      "sen_id": 6
+    },
+	{
+      "caption": "Some laser weapons are moving",
+      "video_id": "G_00121",
+      "sen_id": 7
+    },
+	{
+      "caption": "Weapons on trial combat duty",
+      "video_id": "G_00121",
+      "sen_id": 8
+    },
+	{
+      "caption": "Russia Shows Laser Weapon System",
+      "video_id": "G_00121",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00122",
+      "caption": "The police are giving a press conference."
+    },
+	{
+      "video_id": "G_00122",
+      "caption": "Four policemen spoke at the press conference",
+      "sen_id": 1
+    },
+	{
+      "caption": "Speech by the spokesman of the Ministry of Public Security",
+      "video_id": "G_00122",
+      "sen_id": 2
+    },
+	{
+      "caption": "A lot of people are sitting.",
+      "video_id": "G_00122",
+      "sen_id": 3
+    },
+	{
+      "caption": "A lot of people are in meetings.",
+      "video_id": "G_00122",
+      "sen_id": 4
+    },
+	{
+      "caption": "A Public Security Press Conference",
+      "video_id": "G_00122",
+      "sen_id": 5
+    },
+	{
+      "caption": "Many people are discussing in a room.",
+      "video_id": "G_00122",
+      "sen_id": 6
+    },
+	{
+      "caption": "The Ministry of Public Security is holding a press conference.",
+      "video_id": "G_00122",
+      "sen_id": 7
+    },
+	{
+      "caption": "Zhejiang Jiaxing Police issued a statement",
+      "video_id": "G_00122",
+      "sen_id": 8
+    },
+	{
+      "caption": "Public security departments uncovered overseas medical fraud cases",
+      "video_id": "G_00122",
+      "sen_id": 9
+    },
+
+	{
+      "video_id": "G_00123",
+      "caption": "Many people give lectures in the hall.",
+      "sen_id": 0
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00123",
+      "caption": "Free travel is a trap"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00123",
+      "caption": "Ms. Zhang of Jiaxing is one of them."
+    },
+	{
+      "caption": "The exhibition hall was full",
+      "video_id": "G_00123",
+      "sen_id": 3
+    },
+	{
+      "caption": "A man is writing",
+      "video_id": "G_00123",
+      "sen_id": 4
+    },
+	{
+      "caption": "Many people sit around the table and listen to the people on the stage",
+      "video_id": "G_00123",
+      "sen_id": 5
+    },
+	{
+      "caption": "Most of the people attending the lecture were customers of the beauty salon",
+      "video_id": "G_00123",
+      "sen_id": 6
+    },
+	{
+      "caption": "A man is talking",
+      "video_id": "G_00123",
+      "sen_id": 7
+    },
+	{
+      "caption": "Many people are sitting on chairs",
+      "video_id": "G_00123",
+      "sen_id": 8
+    },
+	{
+      "caption": "The lecture was full of people",
+      "video_id": "G_00123",
+      "sen_id": 9
+    },
+	{
+      "video_id": "G_00124",
+      "caption": "A beauty salon bed",
+      "sen_id": 0
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00124",
+      "caption": "International tourism"
+    },
+	{
+      "video_id": "G_00124",
+      "caption": "A group of people are having a meeting",
+      "sen_id": 2
+    },
+	{
+      "caption": "Women was told she had a high risk of cancer",
+      "video_id": "G_00124",
+      "sen_id": 3
+    },
+	{
+      "caption": "Police have uncovered cases of medical fraud overseas",
+      "video_id": "G_00124",
+      "sen_id": 4
+    },
+	{
+      "caption": "Many people sat at tables listening to the people on the stage",
+      "video_id": "G_00124",
+      "sen_id": 5
+    },
+	{
+      "caption": "Video information about a company",
+      "video_id": "G_00124",
+      "sen_id": 6
+    },
+	{
+      "caption": "A man in a suit holds a microphone",
+      "video_id": "G_00124",
+      "sen_id": 7
+    },
+	{
+      "caption": "A lot of people are sitting around the table",
+      "video_id": "G_00124",
+      "sen_id": 8
+    },
+	{
+      "caption": "A man in a suit is on the stage",
+      "video_id": "G_00124",
+      "sen_id": 9
+    },
+	{
+      "video_id": "G_00125",
+      "caption": "A man put the medicine on the table",
+      "sen_id": 0
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00125",
+      "caption": "A white jar was held in the hand"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00125",
+      "caption": "A lot of medications are sitting together"
+    },
+	{
+      "caption": "The medicine was laid out on the table",
+      "video_id": "G_00125",
+      "sen_id": 3
+    },
+	{
+      "caption": "Police have uncovered cases of medical fraud overseas",
+      "video_id": "G_00125",
+      "sen_id": 4
+    },
+	{
+      "caption": "A total of three trips abroad",
+      "video_id": "G_00125",
+      "sen_id": 5
+    },
+	{
+      "caption": "Video information about a company",
+      "video_id": "G_00125",
+      "sen_id": 6
+    },
+	{
+      "caption": "6 million in medical fraud",
+      "video_id": "G_00125",
+      "sen_id": 7
+    },
+	{
+      "caption": "Two white cylinders",
+      "video_id": "G_00125",
+      "sen_id": 8
+    },
+	{
+      "caption": "The paramedics operate the tools",
+      "video_id": "G_00125",
+      "sen_id": 9
+    },
+	{
+      "video_id": "G_00126",
+      "caption": "A group of people sat together in a meeting and a lot of people came over",
+      "sen_id": 0
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00126",
+      "caption": "A group of policemen is having a meeting"
+    },
+	{
+      "video_id": "G_00126",
+      "caption": "Public security bureau meeting",
+      "sen_id": 2
+    },
+	{
+      "video_id": "G_00126",
+      "caption": "Police investigation",
+      "sen_id": 3
+    },
+	{
+      "video_id": "G_00126",
+      "caption": "Many people walked out of the building",
+      "sen_id": 4
+    },
+	{
+      "caption": "Some people were talking around the table",
+      "video_id": "G_00126",
+      "sen_id": 5
+    },
+	{
+      "caption": "The men involved were caught",
+      "video_id": "G_00126",
+      "sen_id": 6
+    },
+	{
+      "caption": "Interior Scenery of Jiaxing Public Security Bureau Conference Room",
+      "video_id": "G_00126",
+      "sen_id": 7
+    },
+	{
+      "caption": "Many people in police uniforms are sitting in the room.",
+      "video_id": "G_00126",
+      "sen_id": 8
+    },
+	{
+      "caption": "Ministry of Public Security Detects Extraordinary Medical Fraud Cases Overseas",
+      "video_id": "G_00126",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00127",
+      "caption": "There are many Chinese textbooks on the table."
+    },
+	{
+      "video_id": "G_00127",
+      "caption": "Several books are on the table.",
+      "sen_id": 1
+    },
+	{
+      "caption": "Many books are on the table.",
+      "video_id": "G_00127",
+      "sen_id": 2
+    },
+	{
+      "caption": "一段关于高中语文教材的视频拍摄",
+      "video_id": "G_00127",
+      "sen_id": 3
+    },
+	{
+      "caption": "Chinese Textbooks for Senior High Schools Come into Taiwan",
+      "video_id": "G_00127",
+      "sen_id": 4
+    },
+	{
+      "caption": "Many textbooks are displayed in turn.",
+      "video_id": "G_00127",
+      "sen_id": 5
+    },
+	{
+      "caption": "Display of Chinese Texts",
+      "video_id": "G_00127",
+      "sen_id": 6
+    },
+	{
+      "caption": "Implementing Chinese Textbooks for Senior High Schools Jointly Edited by the Mainland and the Taiwan Straits",
+      "video_id": "G_00127",
+      "sen_id": 7
+    },
+	{
+      "caption": "Cross-Strait Chinese Textbooks Come into Taiwan High School",
+      "video_id": "G_00127",
+      "sen_id": 8
+    },
+	{
+      "caption": "The teacher is giving a lecture.",
+      "video_id": "G_00127",
+      "sen_id": 9
+    },
+	{
+      "video_id": "G_00128",
+      "caption": "A bus stops at the station.",
+      "sen_id": 0
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00128",
+      "caption": "Many buses are running"
+    },
+	{
+      "caption": "Bus isolation doors on display",
+      "video_id": "G_00128",
+      "sen_id": 2
+    },
+	{
+      "caption": "Passers-by are waiting at the bus stop",
+      "video_id": "G_00128",
+      "sen_id": 3
+    },
+	{
+      "caption": "Buses are fitted with cab isolation doors",
+      "video_id": "G_00128",
+      "sen_id": 4
+    },
+	{
+      "caption": "The bus was moving slowly",
+      "video_id": "G_00128",
+      "sen_id": 5
+    },
+	{
+      "caption": "Bus isolation door fitting",
+      "video_id": "G_00128",
+      "sen_id": 6
+    },
+	{
+      "caption": "Passengers interfere with bus drivers",
+      "video_id": "G_00128",
+      "sen_id": 7
+    },
+	{
+      "caption": "Some buses are installing isolation doors on a pilot basis",
+      "video_id": "G_00128",
+      "sen_id": 8
+    },
+	{
+      "caption": "Many buses are lined up",
+      "video_id": "G_00128",
+      "sen_id": 9
+    },
+	{
+      "caption": "Cars blocked fire engines",
+      "video_id": "G_00129",
+      "sen_id": 0
+    },
+	{
+      "caption": "The bus blocked the fire engines",
+      "video_id": "G_00129",
+      "sen_id": 1
+    },
+	{
+      "video_id": "G_00129",
+      "caption": "A car is going",
+      "sen_id": 2
+    },
+	{
+      "caption": "A white car was moving",
+      "video_id": "G_00129",
+      "sen_id": 3
+    },
+	{
+      "caption": "A fire engine was blocked by a car and truck.",
+      "video_id": "G_00129",
+      "sen_id": 4
+    },
+	{
+      "caption": "There are several cars in front of the road.",
+      "video_id": "G_00129",
+      "sen_id": 5
+    },
+	{
+      "caption": "Vehicles that block traffic do not give way",
+      "video_id": "G_00129",
+      "sen_id": 6
+    },
+	{
+      "caption": "Fire trucks shouted many times",
+      "video_id": "G_00129",
+      "sen_id": 7
+    },
+	{
+      "caption": "Fire truck choice bypass",
+      "video_id": "G_00129",
+      "sen_id": 8
+    },
+	{
+      "caption": "Drivers blocking roads are punished",
+      "video_id": "G_00129",
+      "sen_id": 9
+    },
+	{
+      "caption": "Leaders of China and Portugal Meet Journalists",
+      "video_id": "G_00130",
+      "sen_id": 0
+    },
+	{
+      "video_id": "G_00130",
+      "caption": "Two men exchange documents",
+      "sen_id": 1
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00130",
+      "caption": "A man was giving a speech."
+    },
+	{
+      "caption": "Leaders of the two countries met with journalists",
+      "video_id": "G_00130",
+      "sen_id": 3
+    },
+	{
+      "caption": "Leaders of the two countries are exchanging documents",
+      "video_id": "G_00130",
+      "sen_id": 4
+    },
+	{
+      "caption": "Two people shake hands with each other",
+      "video_id": "G_00130",
+      "sen_id": 5
+    },
+	{
+      "caption": "A man was speaking on the stage.",
+      "video_id": "G_00130",
+      "sen_id": 6
+    },
+	{
+      "caption": "The two countries signed cooperation documents",
+      "video_id": "G_00130",
+      "sen_id": 7
+    },
+	{
+      "caption": "Many people attended the meeting.",
+      "video_id": "G_00130",
+      "sen_id": 8
+    },
+	{
+      "caption": "People are applauding.",
+      "video_id": "G_00130",
+      "sen_id": 9
+    },
+
+	{
+      "video_id": "G_00131",
+      "caption": "Firefighters rescue people trapped in the quagmire",
+      "sen_id": 0
+    },
+	{
+      "caption": "Firefighters rescue the elderly in the mud",
+      "video_id": "G_00131",
+      "sen_id": 1
+    },
+	{
+      "caption": "Many firefighters are saving an old man.",
+      "video_id": "G_00131",
+      "sen_id": 2
+    },
+	{
+      "caption": "Rescue workers rescue people",
+      "video_id": "G_00131",
+      "sen_id": 3
+    },
+	{
+      "caption": "Fire brigades are rescuing the elderly",
+      "video_id": "G_00131",
+      "sen_id": 4
+    },
+	{
+      "caption": "Several firefighters were rescuing people.",
+      "video_id": "G_00131",
+      "sen_id": 5
+    },
+	{
+      "caption": "The old man slipped into the mire",
+      "video_id": "G_00131",
+      "sen_id": 6
+    },
+	{
+      "caption": "Three men in yellow clothes",
+      "video_id": "G_00131",
+      "sen_id": 7
+    },
+	{
+      "video_id": "G_00131",
+      "caption": "Firefighters rescue people trapped in the quagmire",
+      "sen_id": 8
+    },
+	{
+      "sen_id": 9,
+      "video_id": "G_00131",
+      "caption": "Three rescue workers pulled the old man up"
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00132",
+      "caption": "Traffic police command traffic"
+    },
+	{
+      "caption": "Traffic police and drivers are communicating",
+      "video_id": "G_00132",
+      "sen_id": 1
+    },
+	{
+      "caption": "A traffic policeman is talking",
+      "video_id": "G_00132",
+      "sen_id": 2
+    },
+	{
+      "caption": "Traffic police are on duty on the highway",
+      "video_id": "G_00132",
+      "sen_id": 3
+    },
+	{
+      "caption": "The road was covered with snow and the car was moving slowly",
+      "video_id": "G_00132",
+      "sen_id": 4
+    },
+	{
+      "caption": "The traffic police at jiayuguan toll station are on duty",
+      "video_id": "G_00132",
+      "sen_id": 5
+    },
+	{
+      "caption": "All entrances to the motorway are closed",
+      "video_id": "G_00132",
+      "sen_id": 6
+    },
+	{
+      "sen_id": 7,
+      "video_id": "G_00132",
+      "caption": "Many cars were stopped"
+    },
+	{
+      "sen_id": 8,
+      "video_id": "G_00132",
+      "caption": "The big screen showed careful driving"
+    },
+	{
+      "sen_id": 9,
+      "video_id": "G_00132",
+      "caption": "The car was covered with snow"
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00133",
+      "caption": "Many cars drive on the road with flashing lights"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00133",
+      "caption": "The car drove on"
+    },
+	{
+      "caption": "Pedestrians are walking along the road",
+      "video_id": "G_00133",
+      "sen_id": 2
+    },
+	{
+      "caption": "Many people walked in the snow",
+      "video_id": "G_00133",
+      "sen_id": 3
+    },
+	{
+      "caption": "A group of people cross the zebra crossing",
+      "video_id": "G_00133",
+      "sen_id": 4
+    },
+	{
+      "caption": "The fire engine runs at night",
+      "video_id": "G_00133",
+      "sen_id": 5
+    },
+	{
+      "caption": "Yellow warnings have been issued for heavy snow and strong winds",
+      "video_id": "G_00133",
+      "sen_id": 6
+    },
+	{
+      "caption": "Weather stations have issued warnings for heavy snow and strong winds",
+      "video_id": "G_00133",
+      "sen_id": 7
+    },
+	{
+      "caption": "Deicing of Airport Runway in Dalian",
+      "video_id": "G_00133",
+      "sen_id": 8
+    },
+	{
+      "caption": "The snowfall reached moderate snow.",
+      "video_id": "G_00133",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00134",
+      "caption": "Temporary Bridge Opening to Traffic"
+    },
+	{
+      "caption": "Car unidirectional release for steel bridge",
+      "video_id": "G_00134",
+      "sen_id": 1
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00134",
+      "caption": "A truck passed a bridge."
+    },
+	{
+      "caption": "Jinsha River Temporary Steel Frame Bridge Vehicle Opening to Traffic",
+      "video_id": "G_00134",
+      "sen_id": 3
+    },
+	{
+      "caption": "A yellow truck is crossing the bridge.",
+      "video_id": "G_00134",
+      "sen_id": 4
+    },
+	{
+      "caption": "A truck slowed down on a bridge.",
+      "video_id": "G_00134",
+      "sen_id": 5
+    },
+	{
+      "caption": "On-site traffic picture of steel bridge",
+      "video_id": "G_00134",
+      "sen_id": 6
+    },
+	{
+      "caption": "The workers were walking on the bridge.",
+      "video_id": "G_00134",
+      "sen_id": 7
+    },
+	{
+      "caption": "A car was moving on the bridge.",
+      "video_id": "G_00134",
+      "sen_id": 8
+    },
+	{
+      "caption": "People walk on the bridge",
+      "video_id": "G_00134",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00135",
+      "caption": "A group of people gathered around the computer."
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00135",
+      "caption": "Ukraine Tests Missiles"
+    },
+	{
+      "caption": "Ukrainian Army Testing Missiles",
+      "video_id": "G_00135",
+      "sen_id": 3
+    },
+	{
+      "caption": "Ukraine Tests New Missiles",
+      "video_id": "G_00135",
+      "sen_id": 4
+    },
+	{
+      "caption": "The man in camouflage is in front of the instrument.",
+      "video_id": "G_00135",
+      "sen_id": 5
+    },
+	{
+      "caption": "Scene of missile test firing",
+      "video_id": "G_00135",
+      "sen_id": 6
+    },
+	{
+      "caption": "A State Tests New Missiles",
+      "video_id": "G_00135",
+      "sen_id": 7
+    },
+	{
+      "caption": "Many people in camouflage clothes",
+      "video_id": "G_00135",
+      "sen_id": 8
+    },
+	{
+      "caption": "A man is operating a computer.",
+      "video_id": "G_00135",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00136",
+      "caption": "A missile was launched"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00136",
+      "caption": "A missile is flying in the sky"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00136",
+      "caption": "Ukraine is fully prepared for war"
+    },
+	{
+      "sen_id": 3,
+      "video_id": "G_00136",
+      "caption": "A missile is launched"
+    },
+	{
+      "caption": "Ukraine Tests New Missiles",
+      "video_id": "G_00136",
+      "sen_id": 4
+    },
+	{
+      "caption": "Successful launching of surface-to-air missiles",
+      "video_id": "G_00136",
+      "sen_id": 5
+    },
+	{
+      "caption": "Scene of missile test firing",
+      "video_id": "G_00136",
+      "sen_id": 6
+    },
+	{
+      "caption": "Ukraine has the ability to defend its border areas",
+      "video_id": "G_00136",
+      "sen_id": 7
+    },
+	{
+      "caption": "A missile is moving.",
+      "video_id": "G_00136",
+      "sen_id": 8
+    },
+	{
+      "caption": "Ukrainian officials say they have the ability to protect border areas",
+      "video_id": "G_00136",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00137",
+      "caption": "A satellite was launched"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00137",
+      "caption": "Satellite Launch Site"
+    },
+	 {
+      "sen_id": 2,
+      "video_id": "G_00137",
+      "caption": "Satellite Launch"
+    },
+	{
+      "caption": "All the satellites launched have entered orbit.",
+      "video_id": "G_00137",
+      "sen_id": 3
+    },
+	{
+      "sen_id": 4,
+      "caption": "Satellite enters a predetermined orbit",
+      "video_id": "G_00137"
+    },
+	{
+      "caption": "Two satellites are LEO remote sensing satellites",
+      "video_id": "G_00137",
+      "sen_id": 5
+    },
+	{
+      "caption": "The staff in blue were talking.",
+      "video_id": "G_00137",
+      "sen_id": 6
+    },
+	{
+      "caption": "The satellite launch carried ten small satellites",
+      "video_id": "G_00137",
+      "sen_id": 7
+    },
+	{
+      "caption": "Satellites are rising",
+      "video_id": "G_00137",
+      "sen_id": 8
+    },
+	 {
+      "caption": "Many people use forebrain monitoring satellites",
+      "video_id": "G_00137",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00138",
+      "caption": "A group of people sat together"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00138",
+      "caption": "Rocket Control Hall"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00138",
+      "caption": "Many people in blue are sitting in front of the computer."
+    },
+	{
+      "caption": "Satellite-mounted High Precision Camera",
+      "video_id": "G_00138",
+      "sen_id": 3
+    },
+	{
+      "sen_id": 4,
+      "caption": "Ground Image Acquisition Camera",
+      "video_id": "G_00138"
+    },
+	{
+      "caption": "Many people were recording at their desks.",
+      "video_id": "G_00138",
+      "sen_id": 5
+    },
+	{
+      "caption": "Satellite Launch Room staff are observing the situation",
+      "video_id": "G_00138",
+      "sen_id": 6
+    },
+	{
+      "caption": "Many people are working.",
+      "video_id": "G_00138",
+      "sen_id": 7
+    },
+	{
+      "caption": "Many people in blue are working.",
+      "video_id": "G_00138",
+      "sen_id": 8
+    },
+	{
+      "caption": "The staff are talking.",
+      "video_id": "G_00138",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00139",
+      "caption": "Many planes fly in the sky."
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00139",
+      "caption": "Warplanes take off"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00139",
+      "caption": "The warplanes rushed to the scheduled airspace"
+    },
+	{
+      "caption": "Revamping of China's Air Force Su-35",
+      "video_id": "G_00139",
+      "sen_id": 3
+    },
+	{
+      "sen_id": 4,
+      "caption": "Warplanes engage in combat training",
+      "video_id": "G_00139"
+    },
+	{
+      "caption": "The commander gave the order to fly",
+      "video_id": "G_00139",
+      "sen_id": 5
+    },
+	{
+      "caption": "Fighter jets fly",
+      "video_id": "G_00139",
+      "sen_id": 6
+    },
+	{
+      "caption": "Fighter jets take off",
+      "video_id": "G_00139",
+      "sen_id": 7
+    },
+	 {
+      "caption": "A warplane is taking off",
+      "video_id": "G_00139",
+      "sen_id": 8
+    },
+	{
+      "caption": "warplane enhance combat capability",
+      "video_id": "G_00139",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00140",
+      "caption": "A child was sucked into an elevator"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00140",
+      "caption": "A little girl was squeezed between two lifts"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00140",
+      "caption": "The little girl in black is holding the handrail"
+    },
+	{
+      "caption": "The mother thanked him",
+      "video_id": "G_00140",
+      "sen_id": 3
+    },
+	{
+      "sen_id": 4,
+      "caption": "A man saved the little girl.",
+      "video_id": "G_00140"
+    },
+	{
+      "caption": "A man rescued a child stuck in an elevator",
+      "video_id": "G_00140",
+      "sen_id": 5
+    },
+	{
+      "caption": "The little girl was dragged by the elevator",
+      "video_id": "G_00140",
+      "sen_id": 6
+    },
+	{
+      "caption": "A man pulled the little girl up",
+      "video_id": "G_00140",
+      "sen_id": 7
+    },
+	{
+      "caption": "The little girl is safe.",
+      "video_id": "G_00140",
+      "sen_id": 8
+    },
+	{
+      "caption": "Children were interspersed between elevators",
+      "video_id": "G_00140",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00141",
+      "caption": "A car is driving on the road"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00141",
+      "caption": "A 12-year-old boy ran away after hitting a man with his car"
+    },
+	{
+      "caption": "A 12-year-old boy secretly drove a car",
+      "video_id": "G_00141",
+      "sen_id": 3
+    },
+	{
+      "sen_id": 4,
+      "caption": "Suv accident",
+      "video_id": "G_00141"
+    },
+	{
+      "caption": "A white car hit the old man",
+      "video_id": "G_00141",
+      "sen_id": 5
+    },
+	{
+      "caption": "Surveillance footage shows the white suv hitting the old man and backing away",
+      "video_id": "G_00141",
+      "sen_id": 6
+    },
+	{
+      "caption": "The car hit the food stall",
+      "video_id": "G_00141",
+      "sen_id": 7
+    },
+	{
+      "caption": "A white car moved through the crowd",
+      "video_id": "G_00141",
+      "sen_id": 8
+    },
+	{
+      "caption": "The car hit the old man",
+      "video_id": "G_00141",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00142",
+      "caption": "Several people worked together"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00142",
+      "caption": "Several men were digging ice on the lake."
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00142",
+      "caption": "Harbin International Ice and Snow Festival begins to collect ice"
+    },
+	{
+      "caption": "Ice is 30 centimeters thick.",
+      "video_id": "G_00142",
+      "sen_id": 3
+    },
+	{
+      "sen_id": 4,
+      "caption": "A group of people were gathering ice cubes.",
+      "video_id": "G_00142"
+    },
+	{
+      "caption": "Several people dragged the ice together.",
+      "video_id": "G_00142",
+      "sen_id": 5
+    },
+	{
+      "caption": "Four people gather large ice cubes",
+      "video_id": "G_00142",
+      "sen_id": 6
+    },
+	{
+      "caption": "The lake has frozen.",
+      "video_id": "G_00142",
+      "sen_id": 7
+    },
+	{
+      "caption": "Ice is 80 centimeters wide.",
+      "video_id": "G_00142",
+      "sen_id": 8
+    },
+	{
+      "caption": "Ice is one meter six in length.",
+      "video_id": "G_00142",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00143",
+      "caption": "A crowd of people were queuing up"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00143",
+      "caption": "Someone is taking pictures."
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00143",
+      "caption": "Cinema brings people into the picture scroll of Shanghe River in Qingming Dynasty"
+    },
+	{
+      "caption": "Audience queuing experience",
+      "video_id": "G_00143",
+      "sen_id": 3
+    },
+	{
+      "sen_id": 4,
+      "caption": "Audiences Experience Ball Screen Movies",
+      "video_id": "G_00143"
+    },
+	{
+      "caption": "Some people are waiting in line.",
+      "video_id": "G_00143",
+      "sen_id": 5
+    },
+	{
+      "caption": "The audience lined up to watch the film",
+      "video_id": "G_00143",
+      "sen_id": 6
+    },
+	{
+      "caption": "Qingming Shanghe Tu Ball Curtain Cinema",
+      "video_id": "G_00143",
+      "sen_id": 7
+    },
+	{
+      "caption": "Many people queued outside the round tent.",
+      "video_id": "G_00143",
+      "sen_id": 8
+    },
+	{
+      "caption": "People feel the changes of the times",
+      "video_id": "G_00143",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00144",
+      "caption": "A crowd surrounded the car."
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00144",
+      "caption": "There are many cars at the airport."
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00144",
+      "caption": "Several planes were parked at the airport."
+    },
+	{
+      "caption": "Ukraine declares to strengthen its defense",
+      "video_id": "G_00144",
+      "sen_id": 3
+    },
+	{
+      "sen_id": 4,
+      "caption": "Additional troops from Ukraine",
+      "video_id": "G_00144"
+    },
+	{
+      "caption": "Some soldiers were waiting in front of the plane.",
+      "video_id": "G_00144",
+      "sen_id": 5
+    },
+	{
+      "caption": "Air Force Video Pictures",
+      "video_id": "G_00144",
+      "sen_id": 6
+    },
+	{
+      "caption": "The plane stopped at the airport.",
+      "video_id": "G_00144",
+      "sen_id": 7
+    },
+	{
+      "caption": "There are many people behind a green car.",
+      "video_id": "G_00144",
+      "sen_id": 8
+    },
+	{
+      "caption": "The car pulled into the plane.",
+      "video_id": "G_00144",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00145",
+      "caption": "A man sitting and talking"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00145",
+      "caption": "A woman with a Mosaic"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00145",
+      "caption": "The seat was supposed to belong to a male passenger"
+    },
+	{
+      "caption": "The occupier of seats was detained",
+      "video_id": "G_00145",
+      "sen_id": 3
+    },
+	{
+      "sen_id": 4,
+      "caption": "Female passengers occupy seats",
+      "video_id": "G_00145"
+    },
+	{
+      "sen_id": 5,
+      "caption": "Female passengers refuse to provide tickets to the police",
+      "video_id": "G_00145"
+    },
+	{
+      "caption": "Ticketless passengers refused to give up their seats on the train",
+      "video_id": "G_00145",
+      "sen_id": 6
+    },
+	{
+      "caption": "Female passengers sit and talk",
+      "video_id": "G_00145",
+      "sen_id": 7
+    },
+	{
+      "caption": "A man was hit by a mosaic",
+      "video_id": "G_00145",
+      "sen_id": 8
+    },
+	{
+      "caption": "Train interior picture",
+      "video_id": "G_00145",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00146",
+      "caption": "A lot of people were walking around the hall."
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00146",
+      "caption": "Passengers disrupted train order"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00146",
+      "caption": "Women are sentenced to administrative detention for 5 days"
+    },
+	{
+      "caption": "Women detained by Railway Police",
+      "video_id": "G_00146",
+      "sen_id": 3
+    },
+	{
+      "sen_id": 4,
+      "caption": "The police handed the woman over to the police station.",
+      "video_id": "G_00146"
+    },
+	{
+      "caption": "Dense crowds were moving in the waiting room.",
+      "video_id": "G_00146",
+      "sen_id": 5
+    },
+	{
+      "caption": "Disputes between passengers and train workers",
+      "video_id": "G_00146",
+      "sen_id": 6
+    },
+	{
+      "caption": "A woman was speaking.",
+      "video_id": "G_00146",
+      "sen_id": 7
+    },
+	{
+      "caption": "A man was hit by a mosaic",
+      "video_id": "G_00146",
+      "sen_id": 8
+    },
+	{
+      "caption": "A woman is talking.",
+      "video_id": "G_00146",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00147",
+      "caption": "A group of people stood together"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00147",
+      "caption": "A lot of people are queuing up."
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00147",
+      "caption": "The time of meal was written on the window"
+    },
+	{
+      "caption": "The woman paid no attention to others",
+      "video_id": "G_00147",
+      "sen_id": 3
+    },
+	{
+      "sen_id": 4,
+      "caption": "The woman hogged the window",
+      "video_id": "G_00147"
+    },
+	{
+      "caption": "Some people are queuing to check in",
+      "video_id": "G_00147",
+      "sen_id": 5
+    },
+	{
+      "caption": "The woman hogged the station window",
+      "video_id": "G_00147",
+      "sen_id": 6
+    },
+	{
+      "caption": "A long line formed behind the woman",
+      "video_id": "G_00147",
+      "sen_id": 7
+    },
+	{
+      "caption": "Thirty minutes later the woman still occupied the window",
+      "video_id": "G_00147",
+      "sen_id": 8
+    },
+	{
+      "caption": "People lined up",
+      "video_id": "G_00147",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00148",
+      "caption": "The bus was on the road"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00148",
+      "caption": "Outdoor scene of a hospital"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00148",
+      "caption": "Internal Rectification of a Hospital in Chengchun"
+    },
+	{
+      "caption": "Investigation team went to hospital for investigation",
+      "video_id": "G_00148",
+      "sen_id": 3
+    },
+	{
+      "sen_id": 4,
+      "caption": "State departments went to changchun for investigation",
+      "video_id": "G_00148"
+    },
+	{
+      "caption": "Several cars were on the road",
+      "video_id": "G_00148",
+      "sen_id": 5
+    },
+	{
+      "caption": "The internal picture of the hospital was taken by video",
+      "video_id": "G_00148",
+      "sen_id": 6
+    },
+	{
+      "caption": "The national health and construction commission carried out the investigation",
+      "video_id": "G_00148",
+      "sen_id": 7
+    },
+	{
+      "caption": "The hospital was closed for rectification",
+      "video_id": "G_00148",
+      "sen_id": 8
+    },
+	{
+      "caption": "Outdoor scene of the hospital",
+      "video_id": "G_00148",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00149",
+      "caption": "A sphere hung in the air"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00149",
+      "caption": "Chang'e 4 landing on the moon"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00149",
+      "caption": "Landing on the back of the moon is risky"
+    },
+	{
+      "caption": "Chang'e landed on the back of the moon",
+      "video_id": "G_00149",
+      "sen_id": 3
+    },
+	{
+      "video_id": "G_00149",
+      "caption": "Chinese Lunar Landing Instruments",
+      "sen_id": 4
+    },
+	{
+      "caption": "moonscape",
+      "video_id": "G_00149",
+      "sen_id": 5
+    },
+	{
+      "caption": "Photographs of the Moon on Chang'e 4",
+      "video_id": "G_00149",
+      "sen_id": 6
+    },
+	{
+      "caption": "Landing on the back of the moon",
+      "sen_id": 7,
+      "video_id": "G_00149"
+    },
+	{
+      "caption": "A grey sphere",
+      "video_id": "G_00149",
+      "sen_id": 8
+    },
+	{
+      "caption": "It's difficult to land on the back of the moon.",
+      "video_id": "G_00149",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00150",
+      "caption": "The German Chancellor hopes to do a decent job"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00150",
+      "caption": "A lot of people are in meetings."
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00150",
+      "caption": "Many people gathered together."
+    },
+	{
+      "caption": "Women's Outgoing Speech",
+      "video_id": "G_00150",
+      "sen_id": 3
+    },
+	{
+      "video_id": "G_00150",
+      "caption": "Merkel wants a decent retirement",
+      "sen_id": 4
+    },
+	{
+      "caption": "There are many people under the stage.",
+      "video_id": "G_00150",
+      "sen_id": 5
+    },
+	{
+      "caption": "Scene of the German Chancellor's resignation",
+      "video_id": "G_00150",
+      "sen_id": 6
+    },
+	{
+      "caption": "Many people meet in one place.",
+      "sen_id": 7,
+      "video_id": "G_00150"
+    },
+	{
+      "caption": "A woman speaks on stage",
+      "sen_id": 8,
+      "video_id": "G_00150"
+    },
+	{
+      "caption": "A woman is making a speech.",
+      "sen_id": 9,
+      "video_id": "G_00150"
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00151",
+      "caption": "An object landed from the air."
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00151",
+      "caption": "A machine landed on the moon"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00151",
+      "caption": "The spaceship is flying"
+    },
+	{
+      "caption": "It's very difficult to land on the lunar surface.",
+      "video_id": "G_00151",
+      "sen_id": 3
+    },
+	{
+      "video_id": "G_00151",
+      "caption": "Landing on the back of the moon is difficult.",
+      "sen_id": 4
+    },
+	{
+      "video_id": "G_00151",
+      "caption": "The landing was complicated",
+      "sen_id": 5
+    },
+	{
+      "caption": "Virtual image of the spacecraft landing",
+      "video_id": "G_00151",
+      "sen_id": 6
+    },
+	{
+      "caption": "A machine is landing",
+      "sen_id": 7,
+      "video_id": "G_00151"
+    },
+	{
+      "caption": "A square object moves in the air",
+      "video_id": "G_00151",
+      "sen_id": 8
+    },
+	{
+      "caption": "Lunar probe",
+      "video_id": "G_00151",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00152",
+      "caption": "A man was standing next to the van"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00152",
+      "caption": "A man is cooling the van"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00152",
+      "caption": "The driver was holding a pail of water"
+    },
+	{
+      "caption": "The reporter reported on the cause of the dangerous road",
+      "video_id": "G_00152",
+      "sen_id": 3
+    },
+	{
+      "video_id": "G_00152",
+      "caption": "The truck driver cooled the brake pads.",
+      "sen_id": 4
+    },
+	{
+      "caption": "A man poured cold water on the van",
+      "video_id": "G_00152",
+      "sen_id": 5
+    },
+	{
+      "caption": "The driver checks the vehicle at the motorway service station",
+      "video_id": "G_00152",
+      "sen_id": 6
+    },
+	{
+      "caption": "The driver cooled the brake pads",
+      "sen_id": 7,
+      "video_id": "G_00152"
+    },
+	{
+      "caption": "Journalists visiting",
+      "sen_id": 8,
+      "video_id": "G_00152"
+    },
+	{
+      "caption": "A man added water to the car",
+      "video_id": "G_00152",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00153",
+      "caption": "Road spark"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00153",
+      "caption": "A car overturned on the road"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00153",
+      "caption": "The road gave off sparks"
+    },
+	{
+      "caption": "The monitor showed the car was out of control",
+      "video_id": "G_00153",
+      "sen_id": 3
+    },
+    {
+      "video_id": "G_00153",
+      "caption": "Monitoring Introduces the Accident Process",
+      "sen_id": 4
+    },
+	{
+      "caption": "A car crashed into the wall of the tunnel.",
+      "video_id": "G_00153",
+      "sen_id": 5
+    },
+	{
+      "caption": "Scene of a car accident",
+      "video_id": "G_00153",
+      "sen_id": 6
+    },
+	{
+      "caption": "An accident happened to a car.",
+      "sen_id": 7,
+      "video_id": "G_00153"
+    },
+	{
+      "caption": "A car overturned",
+      "video_id": "G_00153",
+      "sen_id": 8
+    },
+    {
+	  "caption": "Sparks from car runaway friction",
+      "video_id": "G_00153",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00154",
+      "caption": "Several people stood together"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00154",
+      "caption": "Several traffic policemen are in the hospital."
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00154",
+      "caption": "The case is under further processing"
+    },
+	{
+      "caption": "Men suspected of drunk driving",
+      "video_id": "G_00154",
+      "sen_id": 3
+    },
+	{
+      "video_id": "G_00154",
+      "caption": "The police took the man to the hospital.",
+      "sen_id": 4
+    },
+	{
+      "caption": "A doctor is drawing blood.",
+      "video_id": "G_00154",
+      "sen_id": 5
+    },
+	{
+      "caption": "Doctors are treating injured drivers.",
+      "video_id": "G_00154",
+      "sen_id": 6
+    },
+	{
+      "caption": "The police took the man to the hospital.",
+      "sen_id": 7,
+      "video_id": "G_00154"
+    },
+	{
+      "caption": "A lot of people are in the house.",
+      "video_id": "G_00154",
+      "sen_id": 8
+    },
+	{
+      "caption": "Men are taking blood tests.",
+      "video_id": "G_00154",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00155",
+      "caption": "A group of people were dancing."
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00155",
+      "caption": "A person is dancing"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00155",
+      "caption": "Two people performing"
+    },
+	{
+      "caption": "Actors perform on stage",
+      "video_id": "G_00155",
+      "sen_id": 3
+    },
+	{
+      "video_id": "G_00155",
+      "caption": "Dance plays are large-scale and original.",
+      "sen_id": 4
+    },
+	{
+      "caption": "The actor is dancing.",
+      "video_id": "G_00155",
+      "sen_id": 5
+    },
+	{
+      "caption": "Scene of National Dance Performance",
+      "video_id": "G_00155",
+      "sen_id": 6
+    },
+	{
+      "caption": "A Handful of Jujubes Holds a Commemorative Performance",
+      "video_id": "G_00155",
+      "sen_id": 7
+    },
+	{
+      "caption": "A woman is dancing.",
+      "video_id": "G_00155",
+      "sen_id": 8
+    },
+	{
+      "caption": "Dance show A Handful of Jujubes",
+      "video_id": "G_00155",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00156",
+      "caption": "A group of people sat together for a meeting."
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00156",
+      "caption": "There are several charts on a monitor."
+    },
+	{
+      "caption": "Chang'e 4 carries multiple loads",
+      "video_id": "G_00156",
+      "sen_id": 3
+    },
+	{
+      "video_id": "G_00156",
+      "caption": "Scientists discuss it together",
+      "sen_id": 4
+    },
+	{
+      "caption": "Some people are watching computers.",
+      "video_id": "G_00156",
+      "sen_id": 5
+    },
+	{
+      "caption": "Scientists from all over the world are communicating at conferences",
+      "video_id": "G_00156",
+      "sen_id": 6
+    },
+	{
+      "caption": "Chang'e 4 carries international loads",
+      "video_id": "G_00156",
+      "sen_id": 7
+    },
+	{
+      "caption": "Reducing costs through international cooperation",
+      "video_id": "G_00156",
+      "sen_id": 8
+    },
+	{
+      "caption": "International cooperation to share more scientific data",
+      "video_id": "G_00156",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00157",
+      "caption": "Several people stood together"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00157",
+      "caption": "People wear blue clothes."
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00157",
+      "caption": "People are experimenting."
+    },
+	{
+      "caption": "Biological Experiments on Chang'e 4",
+      "video_id": "G_00157",
+      "sen_id": 3
+    },
+	{
+      "video_id": "G_00157",
+      "caption": "The detector carried many seeds.",
+      "sen_id": 4
+    },
+	{
+      "caption": "Several experimenters are recording",
+      "video_id": "G_00157",
+      "sen_id": 5
+    },
+	{
+      "caption": "Scientists are exploring biological science experiments",
+      "video_id": "G_00157",
+      "sen_id": 6
+    },
+	{
+      "caption": "Many people are working.",
+      "sen_id": 7,
+      "video_id": "G_00157"
+    },
+	{
+      "caption": "A lot of people are in the house.",
+      "video_id": "G_00157",
+      "sen_id": 8
+    },
+	{
+      "caption": "Staff members are discussing",
+      "video_id": "G_00157",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00158",
+      "caption": "People are making snowmen"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00158",
+      "caption": "Two people are making snowmen"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00158",
+      "caption": "Cold wave hit"
+    },
+	{
+      "caption": "The lowest temperature in many places in jiangsu province",
+      "video_id": "G_00158",
+      "sen_id": 3
+    },
+	{
+      "caption": "People are riding electric bikes",
+      "video_id": "G_00158",
+      "sen_id": 4
+    },
+	{
+      "caption": "Many areas in jiangsu province are experiencing cooling",
+      "video_id": "G_00158",
+      "sen_id": 5
+    },
+	{
+      "caption": "A man is making a snowman in the snow",
+      "video_id": "G_00158",
+      "sen_id": 6
+    },
+	{
+      "caption": "A cold wave has hit jiangsu province",
+      "video_id": "G_00158",
+      "sen_id": 7
+    },
+	{
+      "caption": "A boy is making a snowman",
+      "video_id": "G_00158",
+      "sen_id": 8
+    },
+	{
+      "caption": "People dressed themselves up against the cold",
+      "video_id": "G_00158",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00159",
+      "caption": "A car pulled up on the side of the road"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00159",
+      "caption": "The traffic policeman stopped the car on the road"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00159",
+      "caption": "Traffic police check vehicles"
+    },
+	{
+      "caption": "The police helped the driver install the anti-skid chain",
+      "video_id": "G_00159",
+      "sen_id": 3
+    },
+	{
+      "video_id": "G_00159",
+      "caption": "Township traffic police emergency on the road",
+      "sen_id": 4
+    },
+	{
+      "caption": "The traffic policeman is checking the wheels of the car",
+      "video_id": "G_00159",
+      "sen_id": 5
+    },
+	{
+      "caption": "Traffic police check passing cars",
+      "video_id": "G_00159",
+      "sen_id": 6
+    },
+	{
+      "caption": "Heavy snow hit",
+      "video_id": "G_00159",
+      "sen_id": 7
+    },
+	{
+      "caption": "The emergency vehicle pulled up to the side of the road",
+      "video_id": "G_00159",
+      "sen_id": 8
+    },
+	{
+      "caption": "A yellow car pulled up to the side of the road",
+      "video_id": "G_00159",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00160",
+      "caption": "A group of people were walking in line"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00160",
+      "caption": "Inside the terminal"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00160",
+      "caption": "Flights are normal"
+    },
+	{
+      "caption": "No passengers were stranded at the airport",
+      "video_id": "G_00160",
+      "sen_id": 3
+    },
+	{
+      "video_id": "G_00160",
+      "caption": "Our correspondent is at the airport",
+      "sen_id": 4
+    },
+	{
+      "caption": "Some people are waiting in line",
+      "video_id": "G_00160",
+      "sen_id": 5
+    },
+	{
+      "caption": "Passengers queue to leave the airport",
+      "video_id": "G_00160",
+      "sen_id": 6
+    },
+	{
+      "caption": "Many people sat and waited",
+      "video_id": "G_00160",
+      "sen_id": 7
+    },
+	{
+      "caption": "The airport terminal",
+      "video_id": "G_00160",
+      "sen_id": 8
+    },
+	{
+      "caption": "Many people were waiting at the airport",
+      "video_id": "G_00160",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00161",
+      "caption": "A man sprinkled white powder on the road"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00161",
+      "caption": "The traffic police are sprinkling salt"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00161",
+      "caption": "A man threw salt on the road"
+    },
+	{
+      "caption": "Traffic police implement salt de-icing operations",
+      "video_id": "G_00161",
+      "sen_id": 3
+    },
+	{
+      "video_id": "G_00161",
+      "caption": "The traffic policeman salted the ice",
+      "sen_id": 4
+    },
+	{
+      "caption": "The traffic policeman is sprinkling salt with his shovel",
+      "video_id": "G_00161",
+      "sen_id": 5
+    },
+	{
+      "caption": "Traffic police salt dangerous roads on snowy days",
+      "video_id": "G_00161",
+      "sen_id": 6
+    },
+	{
+      "caption": "The police work on the road",
+      "video_id": "G_0161",
+      "sen_id": 7
+    },
+	{
+      "caption": "The policeman took the pry",
+      "video_id": "G_00161",
+      "sen_id": 8
+    },
+	{
+      "caption": "Several people were dressed in yellow",
+      "video_id": "G_00161",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00162",
+      "caption": "One man held a pig's skin in his hand"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00162",
+      "caption": "A man is gluing pig skin"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00162",
+      "caption": "Pig skin touch water"
+    },
+	{
+      "caption": "The skin instantly sticks to the iron",
+      "video_id": "G_00162",
+      "sen_id": 3
+    },
+	{
+      "video_id": "G_00162",
+      "caption": "The skin will stick in an instant",
+      "sen_id": 4
+    },
+	{
+      "caption": "The pig's skin was put on the iron railing",
+      "video_id": "G_00162",
+      "sen_id": 5
+    },
+	{
+      "caption": "The skin stuck to the iron frame in an instant outside",
+      "video_id": "G_00162",
+      "sen_id": 6
+    },
+	{
+      "caption": "It's 30 below northeast",
+      "video_id": "G_00162",
+      "sen_id": 7
+    },
+	{
+      "caption": "A man sticks the pigskin to the railing",
+      "video_id": "G_00162",
+      "sen_id": 8
+    },
+	{
+      "caption": "The reporter feels northeast person daily",
+      "video_id": "G_00162",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00163",
+      "caption": "The trees swayed in the wind"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00163",
+      "caption": "The cedars were swaying"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00163",
+      "caption": "The trees swayed in the wind"
+    },
+	{
+      "caption": "Lushan misty pines bloom in the wind",
+      "video_id": "G_00163",
+      "sen_id": 3
+    },
+	{
+      "caption": "The rime is crystal clear",
+      "video_id": "G_00163",
+      "sen_id": 4
+    },
+	{
+      "caption": "The trees were coated with ice",
+      "video_id": "G_00163",
+      "sen_id": 5
+    },
+	{
+      "caption": "Ice crystals hanging from tree branches",
+      "video_id": "G_00163",
+      "sen_id": 6
+    },
+	{
+      "caption": "The pine trees were iced over",
+      "sen_id": 7,
+      "video_id": "G_00163"
+    },
+	{
+      "caption": "There is ice on the branches",
+      "video_id": "G_00163",
+      "sen_id": 8
+    },
+	{
+      "caption": "The trees froze with ice crystals",
+      "video_id": "G_00163",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00164",
+      "caption": "A man is flying an airplane"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00164",
+      "caption": "Several fighter jets are on display"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00164",
+      "caption": "A man flies a plane in the sky"
+    },
+	{
+      "caption": "J-10 flew over the Great Wall",
+      "video_id": "G_00164",
+      "sen_id": 3
+    },
+	{
+      "video_id": "G_00164",
+      "caption": "Fighter jets fly over the Great Wall",
+      "sen_id": 4
+    },
+	{
+      "caption": "The plane fluttered in the sky",
+      "video_id": "G_00164",
+      "sen_id": 5
+    },
+	{
+      "caption": "The aircraft flew through the valley at very low altitude",
+      "video_id": "G_00164",
+      "sen_id": 6
+    },
+	{
+      "caption": "Fighter planes are flying in the sky",
+      "sen_id": 7,
+      "video_id": "G_00164"
+    },
+	{
+      "caption": "There are six planes in the sky",
+      "video_id": "G_00164",
+      "sen_id": 8
+    },
+	{
+      "caption": "The warplanes were performing aerobatics",
+      "video_id": "G_00164",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00165",
+      "caption": "The tanks were on the ground"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00165",
+      "caption": "A soldier is being interviewed"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00165",
+      "caption": "Tank organic armor, composite armor, and reactive armor"
+    },
+	{
+      "caption": "The 99A tank demonstrates protection",
+      "video_id": "G_00165",
+      "sen_id": 3
+    },
+	{
+      "video_id": "G_00165",
+      "caption": "The soldiers introduced tanks",
+      "sen_id": 4
+    },
+	{
+      "caption": "Two men squatted on the tank",
+      "video_id": "G_00165",
+      "sen_id": 5
+    },
+	{
+      "caption": "Journalists experience China's advanced tanks",
+      "video_id": "G_00165",
+      "sen_id": 6
+    },
+	{
+      "caption": "A soldier was speaking",
+      "sen_id": 7,
+      "video_id": "G_00165"
+    },
+	{
+      "caption": "A tank was parked on the lawn",
+      "video_id": "G_00165",
+      "sen_id": 8
+    },
+	{
+      "caption": "The 99A tank has excellent protection",
+      "video_id": "G_00165",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00166",
+      "caption": "A man got into the cockpit"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00166",
+      "caption": "Inside the cockpit of a tank"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00166",
+      "caption": "Reporter enters cockpit"
+    },
+	{
+      "caption": "Reporters experience the tank cockpit",
+      "video_id": "G_00166",
+      "sen_id": 3
+    },
+	{
+      "video_id": "G_00166",
+      "caption": "Journalists Experience Tanks",
+      "sen_id": 4
+    },
+	{
+      "caption": "A man was sitting in a tank.",
+      "video_id": "G_00166",
+      "sen_id": 5
+    },
+	{
+      "caption": "Journalists Experience Tank Internal Cockpit",
+      "video_id": "G_00166",
+      "sen_id": 6
+    },
+	{
+      "caption": "A soldier squatted on a tank",
+      "sen_id": 7,
+      "video_id": "G_00166"
+    },
+	{
+      "caption": "Tank cockpit space is very narrow",
+      "video_id": "G_00166",
+      "sen_id": 8
+    },
+	{
+      "caption": "Tank cockpit layout is very compact",
+      "video_id": "G_00166",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00167",
+      "caption": "A tank is running."
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00167",
+      "caption": "Unmanned Tank Testing"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00167",
+      "caption": "Tanks encounter roadblocks"
+    },
+	{
+      "caption": "Tanks on the battlefield",
+      "video_id": "G_00167",
+      "sen_id": 3
+    },
+	{
+      "video_id": "G_00167",
+      "caption": "Unmanned tanks can be used as battlefield bait",
+      "sen_id": 4
+    },
+	{
+      "caption": "There is a car behind the tank.",
+      "video_id": "G_00167",
+      "sen_id": 5
+    },
+	{
+      "caption": "Pictures of Unmanned Tanks Participating in the Competition",
+      "video_id": "G_00167",
+      "sen_id": 6
+    },
+	{
+      "caption": "Unmanned Tanks have a wonderful performance",
+      "video_id": "G_00167",
+      "sen_id": 7
+    },
+	{
+      "caption": "A green tank is moving.",
+      "video_id": "G_00167",
+      "sen_id": 8
+    },
+	{
+      "caption": "A earthy tank was driving along the road.",
+      "video_id": "G_00167",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00168",
+      "caption": "Two men standing on the boat"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00168",
+      "caption": "A lot of people are rescuing."
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00168",
+      "caption": "Rescue work is under strain."
+    },
+	{
+      "caption": "Armed Police Officers and Soldiers Carry Rescue Equipment",
+      "video_id": "G_00168",
+      "sen_id": 3
+    },
+	{
+      "caption": "Armed Police Officers and Soldiers are on a rescue mission",
+      "video_id": "G_00168",
+      "sen_id": 4
+    },
+	{
+      "caption": "Several men threw rescue tools into the water on board",
+      "video_id": "G_00168",
+      "sen_id": 5
+    },
+	{
+      "caption": "Armed police officers and soldiers are using rescue equipment to detect underwater conditions",
+      "video_id": "G_00168",
+      "sen_id": 6
+    },
+	{
+      "caption": "Two officers and soldiers wearing orange life jackets",
+      "video_id": "G_00168",
+      "sen_id": 7
+    },
+	{
+      "caption": "Two officers and soldiers on board",
+      "video_id": "G_00168",
+      "sen_id": 8
+    },
+	{
+      "caption": "The officers and soldiers rescued the falling ships",
+      "video_id": "G_00168",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00169",
+      "caption": "Street lamp illumination at roadside"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00169",
+      "caption": "Two large trucks rear-end rollover"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00169",
+      "caption": "Citizens took pictures of the accident"
+    },
+	{
+      "caption": "Accidents on Expressways",
+      "video_id": "G_00169",
+      "sen_id": 3
+    },
+	{
+      "caption": "Aircar rollover on Erguang Expressway",
+      "video_id": "G_00169",
+      "sen_id": 4
+    },
+	{
+      "caption": "A car skidded at night",
+      "video_id": "G_00169",
+      "sen_id": 5
+    },
+	{
+      "caption": "Pictures of a truck crashing uncontrollably into the roadside",
+      "video_id": "G_00169",
+      "sen_id": 6
+    },
+	{
+      "caption": "A truck rolled over on the road.",
+      "video_id": "G_00169",
+      "sen_id": 7
+    },
+	{
+      "caption": "An accident happened on the road at night.",
+      "video_id": "G_00169",
+      "sen_id": 8
+    },
+	{
+      "caption": "Citizens witnessed the scene of traffic accidents",
+      "video_id": "G_00169",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00170",
+      "caption": "Flags are flying"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00170",
+      "caption": "Ukraine Abolishes the Treaty of Friendship with Russia"
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00170",
+      "caption": "Abolishment of treaties has certain symbolic significance."
+    },
+	{
+      "caption": "Ukraine Abolishes the Treaty",
+      "video_id": "G_00170",
+      "sen_id": 3
+    },
+	{
+      "caption": "Escalation of conflict in Russia and Ukraine",
+      "video_id": "G_00170",
+      "sen_id": 4
+    },
+	{
+      "caption": "A person speaks in front of the stage",
+      "video_id": "G_00170",
+      "sen_id": 5
+    },
+	{
+      "caption": "The Prime Minister of Ukraine is making a speech",
+      "video_id": "G_00170",
+      "sen_id": 6
+    },
+	{
+      "caption": "A lot of people are in meetings.",
+      "video_id": "G_00170",
+      "sen_id": 7
+    },
+	{
+      "caption": "A man in a black suit was talking.",
+      "video_id": "G_00170",
+      "sen_id": 8
+    },
+	{
+      "caption": "Pedestrians walk on the road",
+      "video_id": "G_00170",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00171",
+      "caption": "A car is going backwards."
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00171",
+      "caption": "A lot of people are standing."
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00171",
+      "caption": "Russia says the detained Ukrainian crew is not a prisoner of war"
+    },
+	{
+      "caption": "Soldiers inspect passing vehicles",
+      "video_id": "G_00171",
+      "sen_id": 3
+    },
+	{
+      "caption": "A white van pulled into a door.",
+      "video_id": "G_00171",
+      "sen_id": 4
+    },
+	{
+      "caption": "A white van was backing up",
+      "video_id": "G_00171",
+      "sen_id": 5
+    },
+	{
+      "caption": "Statement by Russia on Ukrainian detainees",
+      "video_id": "G_00171",
+      "sen_id": 6
+    },
+	{
+      "caption": "The man in Black got out of the car",
+      "video_id": "G_00171",
+      "sen_id": 7
+    },
+	{
+      "caption": "Soldiers in black were stationed at the door.",
+      "video_id": "G_00171",
+      "sen_id": 8
+    },
+	{
+      "caption": "People enter the door.",
+      "video_id": "G_00171",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00172",
+      "caption": "Two people standing by the car"
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00172",
+      "caption": "Many people are detaining prisoners."
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00172",
+      "caption": "The gray jeep was parked on the road."
+    },
+	{
+      "caption": "The soldiers continued to inspect the ships.",
+      "video_id": "G_00172",
+      "sen_id": 3
+    },
+	{
+      "caption": "Russia says the detained Ukrainian crew is not a prisoner of war",
+      "video_id": "G_00172",
+      "sen_id": 4
+    },
+	{
+      "caption": "A ship stopped at sea.",
+      "video_id": "G_00172",
+      "sen_id": 5
+    },
+	{
+      "caption": "Two masked men were walking behind the car.",
+      "video_id": "G_00172",
+      "sen_id": 6
+    },
+	{
+      "caption": "A man walks on a white ship",
+      "video_id": "G_00172",
+      "sen_id": 7
+    },
+	{
+      "caption": "The detainees illegally crossed the maritime frontier",
+      "video_id": "G_00172",
+      "sen_id": 8
+    },
+	{
+      "caption": "Two men in camouflage stood by the car",
+      "video_id": "G_00172",
+      "sen_id": 9
+    },
+	{
+      "sen_id": 0,
+      "video_id": "G_00173",
+      "caption": "A car rolled over on the road."
+    },
+	{
+      "sen_id": 1,
+      "video_id": "G_00173",
+      "caption": "There are many traffic accidents on the expressway."
+    },
+	{
+      "sen_id": 2,
+      "video_id": "G_00173",
+      "caption": "Goods spilled all over the floor."
+    },
+	{
+      "caption": "The ground was covered with scattered goods.",
+      "video_id": "G_00173",
+      "sen_id": 3
+    },
+	{
+      "caption": "Several accidents on Erguang Expressway resulted in 5 deaths and 18 injuries",
+      "video_id": "G_00173",
+      "sen_id": 4
+    },
+	{
+      "caption": "Accidents at Erguang Expressway",
+      "video_id": "G_00173",
+      "sen_id": 5
+    },
+	{
+      "caption": "The truck toppled over on the roadside",
+      "video_id": "G_00173",
+      "sen_id": 6
+    },
+	{
+      "caption": "Four traffic accidents occurred intermittently on Erguang Expressway",
+      "video_id": "G_00173",
+      "sen_id": 7
+    },
+	{
+      "caption": "The goods from the overturned truck were scattered all over the place.",
+      "video_id": "G_00173",
+      "sen_id": 8
+    },
+	{
+      "caption": "Traffic accidents involving 22 vehicles",
+      "video_id": "G_00173",
+      "sen_id": 9
+    }
+     ]
+}

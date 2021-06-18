@@ -1,0 +1,15 @@
+model_0, loss: 21.845047
+model_0, loss: 38.765579
+model_50, loss: 9.719321
+model_100, loss: 7.371175
+model_150, loss: 5.263487
+model_200, loss: 4.656453
+model_250, loss: 4.927234
+model_300, loss: 6.305480
+model_0, loss: 32.629250
+model_50, loss: 14.969893
+model_100, loss: 5.264210
+model_150, loss: 6.713751
+model_200, loss: 5.367710
+model_250, loss: 4.543067
+model_300, loss: 4.423279
